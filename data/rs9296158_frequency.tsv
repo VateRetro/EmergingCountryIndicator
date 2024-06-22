@@ -1,0 +1,62 @@
+#URL	https://www.ncbi.nlm.nih.gov/snp/rs9296158/download/frequency
+#NCBI Reference SNP (rs) Report ALPHA	rs9296158
+#Current Build	156
+#Released	October 17, 2022
+#Organism	Homo sapiens
+#Position	chr6:35599305 (GRCh38.p14)
+#Alleles	A>C / A>G / A>T
+#Variation Type	SNV (Single Nucleotide Variation)
+#Publications	60 citations
+#
+#Frequency Data Table
+#################
+#Study	Population	Group	Samplesize	Ref Allele	Alt Allele	BioProject ID	BioSample ID
+TopMed	Global	Study-wide	264690	A=0.365915	G=0.634085	PRJNA400167	
+Allele Frequency Aggregator	Total	Global	141632	A=0.312860	G=0.687140	PRJNA507278	SAMN10492705
+Allele Frequency Aggregator	European	Sub	122536	A=0.302711	G=0.697289		SAMN10492695
+Allele Frequency Aggregator	Latin American 2	Sub	6256	A=0.3518	G=0.6482		SAMN10492700
+Allele Frequency Aggregator	Other	Sub	5846	A=0.3298	G=0.6702		SAMN11605645
+Allele Frequency Aggregator	African	Sub	5468	A=0.4695	G=0.5305		SAMN10492703
+Allele Frequency Aggregator	Latin American 1	Sub	726	A=0.336	G=0.664		SAMN10492699
+Allele Frequency Aggregator	Asian	Sub	616	A=0.344	G=0.656		SAMN10492704
+Allele Frequency Aggregator	South Asian	Sub	184	A=0.359	G=0.641		SAMN10492702
+gnomAD - Genomes	Global	Study-wide	140004	A=0.350169	G=0.649831	PRJNA398795	SAMN07488253
+gnomAD - Genomes	European	Sub	75870	A=0.28575	G=0.71425		SAMN10181265
+gnomAD - Genomes	African	Sub	41896	A=0.47038	G=0.52962		SAMN07488254
+gnomAD - Genomes	American	Sub	13636	A=0.36176	G=0.63824		SAMN07488255
+gnomAD - Genomes	Ashkenazi Jewish	Sub	3322	A=0.2745	G=0.7255		SAMN07488252
+gnomAD - Genomes	East Asian	Sub	3128	A=0.3162	G=0.6838		SAMN07488251
+gnomAD - Genomes	Other	Sub	2152	A=0.3736	G=0.6264		SAMN07488248
+14KJPN	JAPANESE	Study-wide	28258	A=0.30993	G=0.69007	PRJNA678214	SAMN16789458
+8.3KJPN	JAPANESE	Study-wide	16760	A=0.31175	G=0.68825	PRJNA678214	SAMN16789458
+1000Genomes_30x	Global	Study-wide	6404	A=0.3601	G=0.6399	PRJEB31736	SAMN07490465
+1000Genomes_30x	African	Sub	1786	A=0.4731	G=0.5269		SAMN07486022
+1000Genomes_30x	Europe	Sub	1266	A=0.3017	G=0.6983		SAMN07488239
+1000Genomes_30x	South Asian	Sub	1202	A=0.3236	G=0.6764		SAMN07486027
+1000Genomes_30x	East Asian	Sub	1170	A=0.2949	G=0.7051		SAMN07486024
+1000Genomes_30x	American	Sub	980	A=0.352	G=0.648		SAMN07488242
+1000Genomes	Global	Study-wide	5008	A=0.3594	G=0.6406	PRJEB6930	SAMN07490465
+1000Genomes	African	Sub	1322	A=0.4697	G=0.5303		SAMN07486022
+1000Genomes	East Asian	Sub	1008	A=0.2897	G=0.7103		SAMN07486024
+1000Genomes	Europe	Sub	1006	A=0.3042	G=0.6958		SAMN07488239
+1000Genomes	South Asian	Sub	978	A=0.335	G=0.665		SAMN07486027
+1000Genomes	American	Sub	694	A=0.365	G=0.635		SAMN07488242
+Genetic variation in the Estonian population	Estonian	Study-wide	4480	A=0.2509	G=0.7491	PRJNA489787	
+The Avon Longitudinal Study of Parents and Children	PARENT AND CHILD COHORT	Study-wide	3854	A=0.2994	G=0.7006	PRJEB7217	
+UK 10K study - Twins	TWIN COHORT	Study-wide	3708	A=0.3058	G=0.6942	PRJEB7218	
+KOREAN population from KRGDB	KOREAN	Study-wide	2930	A=0.3150	C=0.0000, G=0.6850, T=0.0000	PRJNA589833	
+Korean Genome Project	KOREAN	Study-wide	1832	A=0.2915	G=0.7085	PRJNA609628	
+Genome of the Netherlands Release 5	Genome of the Netherlands	Study-wide	998	A=0.314	G=0.686	PRJEB5829	SAMN13000132
+CNV burdens in cranial meningiomas	Global	Study-wide	786	A=0.331	G=0.669	PRJEB37584	SAMN15458720
+CNV burdens in cranial meningiomas	CRM	Sub	786	A=0.331	G=0.669		SAMN15458720
+Northern Sweden	ACPOP	Study-wide	600	A=0.280	G=0.720	PPRJNA503394	SAMN10359154
+SGDP_PRJ	Global	Study-wide	464	A=0.220	G=0.780	PRJNA586841	
+HapMap	Global	Study-wide	326	A=0.340	G=0.660	PRJNA60817	SAMN10820145
+HapMap	African	Sub	120	A=0.425	G=0.575		SAMN10821181
+HapMap	American	Sub	118	A=0.271	G=0.729		SAMN10821182
+HapMap	Asian	Sub	88	A=0.32	G=0.68		SAMN10821184
+Qatari	Global	Study-wide	216	A=0.343	G=0.657	PRJNA288297	SAMN13019808
+A Vietnamese Genetic Variation Database	Global	Study-wide	212	A=0.335	G=0.665	PRJNA515199	SAMN10744005
+Siberian	Global	Study-wide	52	A=0.25	G=0.75	PRJNA267856	SAMN13113809
+Ancient Sardinia genome-wide 1240k capture data generation and analysis	Global	Study-wide	44	A=0.27	G=0.73	PRJEB36033	SAMN15458807
+The Danish reference pan genome	Danish	Study-wide	40	A=0.28	G=0.72	PRJEB7725	SAMN13003120

@@ -1,0 +1,50 @@
+# Dataset created from national library of medicine; national center for biotechnology information; https://www.ncbi.nlm.nih.gov/
+
+SNP,Population,Reference Allele,Mutation Allele 1,Mutation Allele 2,Reference Frequency,Mutation Frequency 1,Mutation Frequency 2
+rs1360780,Global,T,A,C,0.31404,0.00000,0.68596
+rs1360780,European,T,A,C,0.29873,0.00000,0.70127
+rs1360780,African,T,A,C,0.4105,0.0000,0.5895
+rs1360780,African Others,T,A,C,0.403,0.000,0.597
+rs1360780,African American,T,A,C,0.4107,0.0000,0.5893
+rs1360780,Asian,T,A,C,0.286,0.000,0.714
+rs1360780,East Asian,T,A,C,0.242,0.000,0.758
+rs1360780,Other Asian,T,A,C,0.48,0.00,0.52
+rs1360780,Latin American 1,T,A,C,0.367,0.000,0.633
+rs1360780,Latin American 2,T,A,C,0.3185,0.0000,0.6815
+rs1360780,South Asian,T,A,C,0.3329,0.0000,0.6671
+rs1360780,Other,T,A,C,0.3278,0.0000,0.6722
+rs3800373,Global,C,A,G,0.289137,0.710863,
+rs3800373,European,C,A,G,0.281831,0.718169,
+rs3800373,African,C,A,G,0.42054,0.57946,
+rs3800373,African Others,C,A,G,0.428,0.572,
+rs3800373,African American,C,A,G,0.42024,0.57976,
+rs3800373,Asian,C,A,G,0.2686,0.7314,
+rs3800373,East Asian,C,A,G,0.2436,0.7564,
+rs3800373,Other Asian,C,A,G,0.375,0.625,
+rs3800373,Latin American 1,C,A,G,0.3052,0.6948,
+rs3800373,Latin American 2,C,A,G,0.3047,0.6953,
+rs3800373,South Asian,C,A,G,0.359,0.641,
+rs3800373,Other,C,A,G,0.3030,0.6970,
+rs9296158,Global,A,C,G,,0.312860,0.687140
+rs9296158,European,A,C,G,,0.302711,0.697289
+rs9296158,African,A,C,G,,0.4695,0.5305
+rs9296158,African Others,A,C,G,,0.441,0.559
+rs9296158,African American,A,C,G,,0.4706,0.5294
+rs9296158,Asian,A,C,G,,0.344,0.656
+rs9296158,East Asian,A,C,G,,0.329,0.671
+rs9296158,Other Asian,A,C,G,,0.400,0.600
+rs9296158,Latin American 1,A,C,G,,0.336,0.664
+rs9296158,Latin American 2,A,C,G,,0.3518,0.6482
+rs9296158,South Asian,A,C,G,,0.359,0.641
+rs9296158,Other,A,C,G,,0.3298,0.6702
+rs9470080,Global,T,A,C,0.335702,0.000000,0.664298
+rs9470080,European,T,A,C,0.329871,0.000000,0.670129
+rs9470080,African,T,A,C,0.4630,0.0000,0.5370
+rs9470080,African Others,T,A,C,0.441,0.000,0.559
+rs9470080,African American,T,A,C,0.4639,0.0000,0.5361
+rs9470080,Asian,T,A,C,0.355,0.000,0.645
+rs9470080,East Asian,T,A,C,0.345,0.000,0.655
+rs9470080,Other Asian,T,A,C,0.397,0.000,0.603
+rs9470080,Latin American 1,T,A,C,0.361,0.000,0.639
+rs9470080,Latin American 2,T,A,C,0.3602,0.0000,0.6398
+rs9470080,South Asian,T,A,C,0.3321,0.0000,0.6679

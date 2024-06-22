@@ -1,0 +1,2113 @@
+Country,Code,ContinentCode,Year,Fragile state index 0 (low) - 120 (high),Demographic pressures 0 (low) - 10 (high)
+Afghanistan,AFG,AS,2007,102.3,8.5
+Afghanistan,AFG,AS,2008,105.4,9.1
+Afghanistan,AFG,AS,2009,108.2,9.3
+Afghanistan,AFG,AS,2010,109.3,9.5
+Afghanistan,AFG,AS,2011,107.5,9.1
+Afghanistan,AFG,AS,2012,106,8.9
+Afghanistan,AFG,AS,2013,106.7,9.3
+Afghanistan,AFG,AS,2014,106.5,8.8
+Afghanistan,AFG,AS,2015,107.9,9.3
+Afghanistan,AFG,AS,2016,107.9,9.5
+Afghanistan,AFG,AS,2017,107.3,9.3
+Afghanistan,AFG,AS,2018,106.6,9.2
+Albania,ALB,EU,2007,70.5,6.5
+Albania,ALB,EU,2008,69.7,6.2
+Albania,ALB,EU,2009,70,6.4
+Albania,ALB,EU,2010,67.1,5.9
+Albania,ALB,EU,2011,66.1,5.5
+Albania,ALB,EU,2012,66.1,5
+Albania,ALB,EU,2013,65.2,4.7
+Albania,ALB,EU,2014,63.6,4.4
+Albania,ALB,EU,2015,61.9,4.1
+Albania,ALB,EU,2016,61.2,4.2
+Albania,ALB,EU,2017,60.5,3.7
+Albania,ALB,EU,2018,60.1,3.4
+Algeria,DZA,AF,2007,75.9,6.1
+Algeria,DZA,AF,2008,77.8,6.1
+Algeria,DZA,AF,2009,80.6,6.7
+Algeria,DZA,AF,2010,81.3,6.7
+Algeria,DZA,AF,2011,78,6.4
+Algeria,DZA,AF,2012,78.1,6.1
+Algeria,DZA,AF,2013,78.7,5.8
+Algeria,DZA,AF,2014,78.8,5.7
+Algeria,DZA,AF,2015,79.6,5.7
+Algeria,DZA,AF,2016,78.3,5.4
+Algeria,DZA,AF,2017,76.8,5.2
+Algeria,DZA,AF,2018,75.8,4.9
+Angola,AGO,AF,2007,84.9,8.5
+Angola,AGO,AF,2008,83.8,8.6
+Angola,AGO,AF,2009,85,8.6
+Angola,AGO,AF,2010,83.7,8.4
+Angola,AGO,AF,2011,84.6,8.6
+Angola,AGO,AF,2012,85.1,8.9
+Angola,AGO,AF,2013,87.1,8.9
+Angola,AGO,AF,2014,87.4,9
+Angola,AGO,AF,2015,87.9,8.7
+Angola,AGO,AF,2016,90.5,9
+Angola,AGO,AF,2017,91.1,9.5
+Angola,AGO,AF,2018,89.4,9.2
+Antigua and Barbuda,ATG,NA,2007,65.7,5.2
+Antigua and Barbuda,ATG,NA,2008,64.1,4.9
+Antigua and Barbuda,ATG,NA,2009,62.8,4.7
+Antigua and Barbuda,ATG,NA,2010,60.9,4.7
+Antigua and Barbuda,ATG,NA,2011,59.9,5.2
+Antigua and Barbuda,ATG,NA,2012,58.9,4.9
+Antigua and Barbuda,ATG,NA,2013,58,4.6
+Antigua and Barbuda,ATG,NA,2014,59,4.9
+Antigua and Barbuda,ATG,NA,2015,57.8,4.6
+Antigua and Barbuda,ATG,NA,2016,56.2,4.3
+Antigua and Barbuda,ATG,NA,2017,54.8,4.1
+Antigua and Barbuda,ATG,NA,2018,55.6,4.6
+Argentina,ARG,SA,2007,41.4,3.8
+Argentina,ARG,SA,2008,41.4,3.8
+Argentina,ARG,SA,2009,44.7,4.1
+Argentina,ARG,SA,2010,45.8,4.6
+Argentina,ARG,SA,2011,46.8,4.4
+Argentina,ARG,SA,2012,46.5,4.4
+Argentina,ARG,SA,2013,46.1,4.1
+Argentina,ARG,SA,2014,47.3,4.2
+Argentina,ARG,SA,2015,47.6,3.8
+Argentina,ARG,SA,2016,48.4,4
+Argentina,ARG,SA,2017,48.2,3.8
+Argentina,ARG,SA,2018,46.1,3.5
+Armenia,ARM,AS,2007,70.3,5.8
+Armenia,ARM,AS,2008,70.7,5.8
+Armenia,ARM,AS,2009,74.3,5.9
+Armenia,ARM,AS,2010,74.1,5.7
+Armenia,ARM,AS,2011,72.3,5.5
+Armenia,ARM,AS,2012,72.2,5.2
+Armenia,ARM,AS,2013,71.3,4.9
+Armenia,ARM,AS,2014,71.3,4.7
+Armenia,ARM,AS,2015,69.7,3.6
+Armenia,ARM,AS,2016,69.6,3.3
+Armenia,ARM,AS,2017,71,3.1
+Armenia,ARM,AS,2018,69.5,2.8
+Australia,AUS,OC,2007,23.2,2.9
+Australia,AUS,OC,2008,24.6,2.9
+Australia,AUS,OC,2009,25.9,3.1
+Australia,AUS,OC,2010,27.3,3.5
+Australia,AUS,OC,2011,28.1,3.3
+Australia,AUS,OC,2012,29.2,4.4
+Australia,AUS,OC,2013,25.4,3.3
+Australia,AUS,OC,2014,26.3,3.4
+Australia,AUS,OC,2015,24.3,1.8
+Australia,AUS,OC,2016,22.5,1.5
+Australia,AUS,OC,2017,22.3,1.3
+Australia,AUS,OC,2018,20.8,1.4
+Austria,AUT,EU,2007,26,2.8
+Austria,AUT,EU,2008,25.9,2.8
+Austria,AUT,EU,2009,27.6,2.9
+Austria,AUT,EU,2010,27.2,2.7
+Austria,AUT,EU,2011,27.3,2.6
+Austria,AUT,EU,2012,27.5,2.6
+Austria,AUT,EU,2013,26.9,2.3
+Austria,AUT,EU,2014,28.5,2.7
+Austria,AUT,EU,2015,25.8,2.4
+Austria,AUT,EU,2016,27.5,2.1
+Austria,AUT,EU,2017,27.7,1.9
+Austria,AUT,EU,2018,26.2,1.6
+Azerbaijan,AZE,AS,2007,81.2,6
+Azerbaijan,AZE,AS,2008,81,6
+Azerbaijan,AZE,AS,2009,84.6,6.4
+Azerbaijan,AZE,AS,2010,84.4,6.2
+Azerbaijan,AZE,AS,2011,81.9,5.8
+Azerbaijan,AZE,AS,2012,79.8,5.6
+Azerbaijan,AZE,AS,2013,78.2,5.3
+Azerbaijan,AZE,AS,2014,77.8,5.4
+Azerbaijan,AZE,AS,2015,77.3,5.1
+Azerbaijan,AZE,AS,2016,76.3,4.8
+Azerbaijan,AZE,AS,2017,76.3,4.6
+Azerbaijan,AZE,AS,2018,74.6,4.3
+Bahamas,BHS,NA,2007,60.1,6
+Bahamas,BHS,NA,2008,60.5,6.2
+Bahamas,BHS,NA,2009,60.9,6.7
+Bahamas,BHS,NA,2010,58.9,6.2
+Bahamas,BHS,NA,2011,56.5,5.8
+Bahamas,BHS,NA,2012,55.1,6.1
+Bahamas,BHS,NA,2013,54.7,6.6
+Bahamas,BHS,NA,2014,54.1,6.5
+Bahamas,BHS,NA,2015,51.5,6.1
+Bahamas,BHS,NA,2016,51.6,6.6
+Bahamas,BHS,NA,2017,52.4,6.9
+Bahamas,BHS,NA,2018,50,6.6
+Bahrain,BHR,AS,2007,57,5.3
+Bahrain,BHR,AS,2008,56.8,5.3
+Bahrain,BHR,AS,2009,59,5
+Bahrain,BHR,AS,2010,58.8,4.5
+Bahrain,BHR,AS,2011,59,4.5
+Bahrain,BHR,AS,2012,62.2,4.6
+Bahrain,BHR,AS,2013,62.9,4.6
+Bahrain,BHR,AS,2014,64.7,4.9
+Bahrain,BHR,AS,2015,64.4,4.6
+Bahrain,BHR,AS,2016,63.4,4.3
+Bahrain,BHR,AS,2017,64.9,4.1
+Bahrain,BHR,AS,2018,64.4,3.8
+Bangladesh,BGD,AS,2007,95.9,8.6
+Bangladesh,BGD,AS,2008,100.3,9.8
+Bangladesh,BGD,AS,2009,98.1,8.9
+Bangladesh,BGD,AS,2010,96.1,8.4
+Bangladesh,BGD,AS,2011,94.4,8.3
+Bangladesh,BGD,AS,2012,92.2,8
+Bangladesh,BGD,AS,2013,92.5,8.1
+Bangladesh,BGD,AS,2014,92.8,7.6
+Bangladesh,BGD,AS,2015,91.8,8.1
+Bangladesh,BGD,AS,2016,90.7,8
+Bangladesh,BGD,AS,2017,89.1,7.5
+Bangladesh,BGD,AS,2018,90.3,7.8
+Barbados,BRB,NA,2007,59.9,4.1
+Barbados,BRB,NA,2008,58.5,4.1
+Barbados,BRB,NA,2009,57.2,4.1
+Barbados,BRB,NA,2010,55.4,4
+Barbados,BRB,NA,2011,52.8,4.3
+Barbados,BRB,NA,2012,52,4.1
+Barbados,BRB,NA,2013,50.8,3.8
+Barbados,BRB,NA,2014,51.4,4.1
+Barbados,BRB,NA,2015,49.3,3.8
+Barbados,BRB,NA,2016,49,4.1
+Barbados,BRB,NA,2017,49.6,4.4
+Barbados,BRB,NA,2018,48.2,4.9
+Belarus,BLR,EU,2007,85.2,8
+Belarus,BLR,EU,2008,84.4,7.7
+Belarus,BLR,EU,2009,82.3,7.2
+Belarus,BLR,EU,2010,78.7,6.7
+Belarus,BLR,EU,2011,77.6,6.3
+Belarus,BLR,EU,2012,76.6,6
+Belarus,BLR,EU,2013,76.7,5.7
+Belarus,BLR,EU,2014,75,5.5
+Belarus,BLR,EU,2015,75.6,5.6
+Belarus,BLR,EU,2016,73.9,5.3
+Belarus,BLR,EU,2017,72.4,5.1
+Belarus,BLR,EU,2018,70.5,5.2
+Belgium,BEL,EU,2007,25.5,3.2
+Belgium,BEL,EU,2008,29,3.2
+Belgium,BEL,EU,2009,33.5,2.8
+Belgium,BEL,EU,2010,32,2.6
+Belgium,BEL,EU,2011,34.1,2.5
+Belgium,BEL,EU,2012,33.5,2.6
+Belgium,BEL,EU,2013,30.9,2.5
+Belgium,BEL,EU,2014,32,2.8
+Belgium,BEL,EU,2015,30.5,2.5
+Belgium,BEL,EU,2016,29,2.2
+Belgium,BEL,EU,2017,30.8,2
+Belgium,BEL,EU,2018,29.7,1.7
+Belize,BLZ,NA,2007,69.8,6.6
+Belize,BLZ,NA,2008,70.2,6.8
+Belize,BLZ,NA,2009,69.5,7
+Belize,BLZ,NA,2010,68.7,6.5
+Belize,BLZ,NA,2011,67.7,6.7
+Belize,BLZ,NA,2012,67.2,6.8
+Belize,BLZ,NA,2013,67.2,6.5
+Belize,BLZ,NA,2014,67,6.2
+Belize,BLZ,NA,2015,65.3,5.9
+Belize,BLZ,NA,2016,66,5.6
+Belize,BLZ,NA,2017,65.5,5.1
+Belize,BLZ,NA,2018,63.7,4.6
+Benin,BEN,AF,2007,72,6.5
+Benin,BEN,AF,2008,72.8,6.9
+Benin,BEN,AF,2009,75.5,7.5
+Benin,BEN,AF,2010,76.8,7.7
+Benin,BEN,AF,2011,80,8.1
+Benin,BEN,AF,2012,78.6,8
+Benin,BEN,AF,2013,77.9,8.3
+Benin,BEN,AF,2014,78.2,8.2
+Benin,BEN,AF,2015,78.8,8.2
+Benin,BEN,AF,2016,78.9,8.5
+Benin,BEN,AF,2017,77.6,8.3
+Benin,BEN,AF,2018,75.7,8
+Bhutan,BTN,AS,2007,86.4,6.5
+Bhutan,BTN,AS,2008,85.4,6.5
+Bhutan,BTN,AS,2009,87.3,6.5
+Bhutan,BTN,AS,2010,87.3,7
+Bhutan,BTN,AS,2011,85,6.6
+Bhutan,BTN,AS,2012,82.4,6.7
+Bhutan,BTN,AS,2013,81.8,6.4
+Bhutan,BTN,AS,2014,80.9,6.3
+Bhutan,BTN,AS,2015,78.7,6
+Bhutan,BTN,AS,2016,77.6,6.3
+Bhutan,BTN,AS,2017,76,6.1
+Bhutan,BTN,AS,2018,74.3,5.8
+Bolivia,BOL,SA,2007,82,7.4
+Bolivia,BOL,SA,2008,84.2,7.7
+Bolivia,BOL,SA,2009,86.3,7.8
+Bolivia,BOL,SA,2010,84.9,7.6
+Bolivia,BOL,SA,2011,82.9,7.2
+Bolivia,BOL,SA,2012,82.1,7.5
+Bolivia,BOL,SA,2013,80.8,6.9
+Bolivia,BOL,SA,2014,78.9,6.6
+Bolivia,BOL,SA,2015,78.1,6.7
+Bolivia,BOL,SA,2016,78.5,6.4
+Bolivia,BOL,SA,2017,76.8,6.3
+Bolivia,BOL,SA,2018,75.2,6.3
+Bosnia and Herzegovina,BIH,EU,2007,84.5,6.1
+Bosnia and Herzegovina,BIH,EU,2008,84.3,6.1
+Bosnia and Herzegovina,BIH,EU,2009,83.3,5.5
+Bosnia and Herzegovina,BIH,EU,2010,83.5,5.3
+Bosnia and Herzegovina,BIH,EU,2011,80.9,5
+Bosnia and Herzegovina,BIH,EU,2012,77.9,4.7
+Bosnia and Herzegovina,BIH,EU,2013,76.5,4.4
+Bosnia and Herzegovina,BIH,EU,2014,75.9,4.1
+Bosnia and Herzegovina,BIH,EU,2015,77.4,6.1
+Bosnia and Herzegovina,BIH,EU,2016,74.6,4
+Bosnia and Herzegovina,BIH,EU,2017,73,3.8
+Bosnia and Herzegovina,BIH,EU,2018,71.3,3.7
+Botswana,BWA,AF,2007,66.4,9.2
+Botswana,BWA,AF,2008,65.9,9.2
+Botswana,BWA,AF,2009,68.8,9.2
+Botswana,BWA,AF,2010,68.6,9
+Botswana,BWA,AF,2011,67.9,8.9
+Botswana,BWA,AF,2012,66.5,8.6
+Botswana,BWA,AF,2013,64,8.3
+Botswana,BWA,AF,2014,64.5,8
+Botswana,BWA,AF,2015,62.8,7.5
+Botswana,BWA,AF,2016,63.5,7.9
+Botswana,BWA,AF,2017,63.8,8.2
+Botswana,BWA,AF,2018,62,8.2
+Brazil,BRA,SA,2007,66.9,6.6
+Brazil,BRA,SA,2008,67.6,6.3
+Brazil,BRA,SA,2009,69.1,6.4
+Brazil,BRA,SA,2010,67.4,6.3
+Brazil,BRA,SA,2011,65.1,6.1
+Brazil,BRA,SA,2012,64.1,7
+Brazil,BRA,SA,2013,62.1,7
+Brazil,BRA,SA,2014,61.4,6.7
+Brazil,BRA,SA,2015,62.7,7.6
+Brazil,BRA,SA,2016,65.3,7.6
+Brazil,BRA,SA,2017,68.2,8.1
+Brazil,BRA,SA,2018,68.7,7.6
+Brunei,BRN,AS,2007,71.2,6.3
+Brunei,BRN,AS,2008,68.5,5.9
+Brunei,BRN,AS,2009,68.1,5.4
+Brunei,BRN,AS,2010,67.6,5.4
+Brunei,BRN,AS,2011,65.8,5.1
+Brunei,BRN,AS,2012,64.1,4.8
+Brunei,BRN,AS,2013,63.2,4.5
+Brunei,BRN,AS,2014,63.6,4.5
+Brunei,BRN,AS,2015,63,4.2
+Brunei,BRN,AS,2016,62,3.9
+Brunei,BRN,AS,2017,61.6,3.7
+Brunei,BRN,AS,2018,59.8,3.4
+Bulgaria,BGR,EU,2007,60.3,5.4
+Bulgaria,BGR,EU,2008,58.5,5.1
+Bulgaria,BGR,EU,2009,61.5,4.7
+Bulgaria,BGR,EU,2010,61.2,4.5
+Bulgaria,BGR,EU,2011,59,4.1
+Bulgaria,BGR,EU,2012,56.3,4
+Bulgaria,BGR,EU,2013,55,4.4
+Bulgaria,BGR,EU,2014,54.4,4.1
+Bulgaria,BGR,EU,2015,55.4,4.2
+Bulgaria,BGR,EU,2016,53.7,3.9
+Bulgaria,BGR,EU,2017,53.7,3.7
+Bulgaria,BGR,EU,2018,51.7,3.4
+Burkina Faso,BFA,AF,2007,89.7,8.6
+Burkina Faso,BFA,AF,2008,89.9,8.6
+Burkina Faso,BFA,AF,2009,91.3,9
+Burkina Faso,BFA,AF,2010,90.7,9.3
+Burkina Faso,BFA,AF,2011,88.6,8.9
+Burkina Faso,BFA,AF,2012,87.4,8.9
+Burkina Faso,BFA,AF,2013,90.2,9.4
+Burkina Faso,BFA,AF,2014,89,9
+Burkina Faso,BFA,AF,2015,89.2,9.1
+Burkina Faso,BFA,AF,2016,89.4,9.4
+Burkina Faso,BFA,AF,2017,88,9.3
+Burkina Faso,BFA,AF,2018,86.5,8.8
+Burma (Myanmar),MMR,AS,2007,97,8.5
+Burma (Myanmar),MMR,AS,2008,100.3,8.5
+Burma (Myanmar),MMR,AS,2009,101.5,9
+Burma (Myanmar),MMR,AS,2010,99.4,8.5
+Burma (Myanmar),MMR,AS,2011,98.3,8.2
+Burma (Myanmar),MMR,AS,2012,96.2,7.9
+Burma (Myanmar),MMR,AS,2013,94.6,7.6
+Burma (Myanmar),MMR,AS,2014,94.3,7.3
+Burma (Myanmar),MMR,AS,2015,94.7,6.8
+Burma (Myanmar),MMR,AS,2016,96.3,7.3
+Burma (Myanmar),MMR,AS,2017,95.7,6.8
+Burma (Myanmar),MMR,AS,2018,96.1,6.3
+Burundi,BDI,AF,2007,95.2,9.1
+Burundi,BDI,AF,2008,94.1,9.1
+Burundi,BDI,AF,2009,95.7,9.2
+Burundi,BDI,AF,2010,96.7,9.4
+Burundi,BDI,AF,2011,98.6,9.1
+Burundi,BDI,AF,2012,97.5,8.8
+Burundi,BDI,AF,2013,97.6,8.9
+Burundi,BDI,AF,2014,97.1,8.7
+Burundi,BDI,AF,2015,98,9.2
+Burundi,BDI,AF,2016,100.7,9.5
+Burundi,BDI,AF,2017,98.9,9.3
+Burundi,BDI,AF,2018,97.4,9.4
+Cambodia,KHM,AS,2007,85.7,7.6
+Cambodia,KHM,AS,2008,85.8,7.8
+Cambodia,KHM,AS,2009,87.3,7.9
+Cambodia,KHM,AS,2010,88.7,8
+Cambodia,KHM,AS,2011,88.5,7.7
+Cambodia,KHM,AS,2012,88.7,7.5
+Cambodia,KHM,AS,2013,88,7.2
+Cambodia,KHM,AS,2014,88.5,7.5
+Cambodia,KHM,AS,2015,87.9,7
+Cambodia,KHM,AS,2016,87.4,7.2
+Cambodia,KHM,AS,2017,85.7,7
+Cambodia,KHM,AS,2018,84,6.5
+Cameroon,CMR,AF,2007,89.4,7
+Cameroon,CMR,AF,2008,91.2,7.4
+Cameroon,CMR,AF,2009,95.3,8
+Cameroon,CMR,AF,2010,95.4,8.2
+Cameroon,CMR,AF,2011,94.6,8
+Cameroon,CMR,AF,2012,93.1,8.2
+Cameroon,CMR,AF,2013,93.5,8.3
+Cameroon,CMR,AF,2014,93.1,8.1
+Cameroon,CMR,AF,2015,94.3,8
+Cameroon,CMR,AF,2016,97.8,8.3
+Cameroon,CMR,AF,2017,95.6,8.1
+Cameroon,CMR,AF,2018,95.3,8.1
+Canada,CAN,NA,2007,25.1,3.3
+Canada,CAN,NA,2008,26.3,3.3
+Canada,CAN,NA,2009,27.7,3.3
+Canada,CAN,NA,2010,27.9,3.2
+Canada,CAN,NA,2011,27.7,2.9
+Canada,CAN,NA,2012,26.8,2.7
+Canada,CAN,NA,2013,26,2.6
+Canada,CAN,NA,2014,27.4,2.7
+Canada,CAN,NA,2015,25.6,2.4
+Canada,CAN,NA,2016,23.8,2.1
+Canada,CAN,NA,2017,22.6,1.9
+Canada,CAN,NA,2018,21.5,1.6
+Cape Verde,CPV,AF,2007,81.1,7.9
+Cape Verde,CPV,AF,2008,80.7,7.9
+Cape Verde,CPV,AF,2009,78.5,7.9
+Cape Verde,CPV,AF,2010,77.2,7.7
+Cape Verde,CPV,AF,2011,75.8,7.3
+Cape Verde,CPV,AF,2012,74.7,7
+Cape Verde,CPV,AF,2013,73.7,6.7
+Cape Verde,CPV,AF,2014,74.1,6.8
+Cape Verde,CPV,AF,2015,73.5,7.1
+Cape Verde,CPV,AF,2016,71.5,7.2
+Cape Verde,CPV,AF,2017,70.1,7.2
+Cape Verde,CPV,AF,2018,68,6.9
+Central African Republic,CAF,AF,2007,101,8.9
+Central African Republic,CAF,AF,2008,103.7,9
+Central African Republic,CAF,AF,2009,105.4,8.9
+Central African Republic,CAF,AF,2010,106.4,9.1
+Central African Republic,CAF,AF,2011,105,8.9
+Central African Republic,CAF,AF,2012,103.8,8.8
+Central African Republic,CAF,AF,2013,105.3,8.6
+Central African Republic,CAF,AF,2014,110.6,8.7
+Central African Republic,CAF,AF,2015,111.9,8.4
+Central African Republic,CAF,AF,2016,112.1,8.7
+Central African Republic,CAF,AF,2017,112.6,9
+Central African Republic,CAF,AF,2018,111.1,9.3
+Chad,TCD,AF,2007,108.8,9.1
+Chad,TCD,AF,2008,110.9,9.1
+Chad,TCD,AF,2009,112.2,9.3
+Chad,TCD,AF,2010,113.3,9.4
+Chad,TCD,AF,2011,110.3,9.2
+Chad,TCD,AF,2012,107.6,9.3
+Chad,TCD,AF,2013,109,9.5
+Chad,TCD,AF,2014,108.7,9.6
+Chad,TCD,AF,2015,108.4,9.7
+Chad,TCD,AF,2016,110.1,9.9
+Chad,TCD,AF,2017,109.4,10
+Chad,TCD,AF,2018,108.3,10
+Chile,CHL,SA,2007,33.8,3.8
+Chile,CHL,SA,2008,36.3,3.8
+Chile,CHL,SA,2009,37.5,4
+Chile,CHL,SA,2010,38,4.1
+Chile,CHL,SA,2011,40.7,5
+Chile,CHL,SA,2012,43.5,4.6
+Chile,CHL,SA,2013,42.3,4.9
+Chile,CHL,SA,2014,42,4.6
+Chile,CHL,SA,2015,41.5,5.1
+Chile,CHL,SA,2016,41.9,5.4
+Chile,CHL,SA,2017,41.1,4.9
+Chile,CHL,SA,2018,40.7,5
+China,CHN,AS,2007,81.2,8.7
+China,CHN,AS,2008,80.3,8.8
+China,CHN,AS,2009,84.6,9
+China,CHN,AS,2010,83,8.8
+China,CHN,AS,2011,80.1,8.2
+China,CHN,AS,2012,78.3,7.9
+China,CHN,AS,2013,80.9,8.1
+China,CHN,AS,2014,79,7.7
+China,CHN,AS,2015,76.5,7.4
+China,CHN,AS,2016,74.9,6.9
+China,CHN,AS,2017,74.7,6.7
+China,CHN,AS,2018,72.4,6.2
+Colombia,COL,SA,2007,89.7,6.8
+Colombia,COL,SA,2008,89,6.8
+Colombia,COL,SA,2009,89.2,6.9
+Colombia,COL,SA,2010,88.2,6.7
+Colombia,COL,SA,2011,87,6.7
+Colombia,COL,SA,2012,84.4,6.4
+Colombia,COL,SA,2013,83.8,6.5
+Colombia,COL,SA,2014,83.1,6.2
+Colombia,COL,SA,2015,82.5,6.9
+Colombia,COL,SA,2016,80.2,6.7
+Colombia,COL,SA,2017,78.9,6.2
+Colombia,COL,SA,2018,76.6,6.3
+Comoros,COM,AF,2007,77.8,6.2
+Comoros,COM,AF,2008,79.6,6.7
+Comoros,COM,AF,2009,86.3,7.4
+Comoros,COM,AF,2010,85.1,7.5
+Comoros,COM,AF,2011,83.8,7.5
+Comoros,COM,AF,2012,83,7.3
+Comoros,COM,AF,2013,84,7.4
+Comoros,COM,AF,2014,85.1,7.3
+Comoros,COM,AF,2015,83.3,7.6
+Comoros,COM,AF,2016,83.8,7.5
+Comoros,COM,AF,2017,84.8,7.3
+Comoros,COM,AF,2018,82.6,7.3
+Costa Rica,CRC,NA,2007,50.5,5.6
+Costa Rica,CRC,NA,2008,50.9,5.6
+Costa Rica,CRC,NA,2009,52.5,5.7
+Costa Rica,CRC,NA,2010,52,5.5
+Costa Rica,CRC,NA,2011,50.6,5.1
+Costa Rica,CRC,NA,2012,49.7,4.6
+Costa Rica,CRC,NA,2013,48.7,4.9
+Costa Rica,CRC,NA,2014,48.5,4.6
+Costa Rica,CRC,NA,2015,46.8,4.1
+Costa Rica,CRC,NA,2016,45.1,3.8
+Costa Rica,CRC,NA,2017,44.1,3.3
+Costa Rica,CRC,NA,2018,43.2,3
+Croatia,HRV,EU,2007,60.5,5.3
+Croatia,HRV,EU,2008,59.4,5.1
+Croatia,HRV,EU,2009,60.1,4.9
+Croatia,HRV,EU,2010,59,4.7
+Croatia,HRV,EU,2011,57.3,4.3
+Croatia,HRV,EU,2012,56.3,4
+Croatia,HRV,EU,2013,54.1,3.7
+Croatia,HRV,EU,2014,52.9,3.5
+Croatia,HRV,EU,2015,51,3.6
+Croatia,HRV,EU,2016,52.4,3.3
+Croatia,HRV,EU,2017,50.6,3.1
+Croatia,HRV,EU,2018,48.7,3.2
+Cuba,CUB,NA,2007,78.6,6.5
+Cuba,CUB,NA,2008,78.6,6.5
+Cuba,CUB,NA,2009,80.6,6.9
+Cuba,CUB,NA,2010,79.4,6.7
+Cuba,CUB,NA,2011,76.6,6.3
+Cuba,CUB,NA,2012,73.1,6
+Cuba,CUB,NA,2013,72.8,6.6
+Cuba,CUB,NA,2014,70.8,5.9
+Cuba,CUB,NA,2015,67.4,5.6
+Cuba,CUB,NA,2016,66.3,5.7
+Cuba,CUB,NA,2017,64.6,5.5
+Cuba,CUB,NA,2018,62.9,5.6
+Cyprus,CYP,EU,2007,70.2,5.1
+Cyprus,CYP,EU,2008,69.7,4.9
+Cyprus,CYP,EU,2009,68.9,5
+Cyprus,CYP,EU,2010,68,4.8
+Cyprus,CYP,EU,2011,67.6,4.4
+Cyprus,CYP,EU,2012,66.8,4.1
+Cyprus,CYP,EU,2013,67,4
+Cyprus,CYP,EU,2014,67.9,4.3
+Cyprus,CYP,EU,2015,66.2,4
+Cyprus,CYP,EU,2016,64,3.7
+Cyprus,CYP,EU,2017,62.6,3.5
+Cyprus,CYP,EU,2018,60.3,3.5
+Czechia,CZE,EU,2007,42.1,4
+Czechia,CZE,EU,2008,42.1,3.8
+Czechia,CZE,EU,2009,42.6,3.5
+Czechia,CZE,EU,2010,41.5,3.3
+Czechia,CZE,EU,2011,42.4,3
+Czechia,CZE,EU,2012,39.5,2.8
+Czechia,CZE,EU,2013,39.9,2.5
+Czechia,CZE,EU,2014,39.4,2.4
+Czechia,CZE,EU,2015,37.4,1.9
+Czechia,CZE,EU,2016,40.8,1.6
+Czechia,CZE,EU,2017,40.1,1.4
+Czechia,CZE,EU,2018,39,1.1
+Democratic Republic of the Congo,COD,AF,2007,105.5,9.4
+Democratic Republic of the Congo,COD,AF,2008,106.7,9.6
+Democratic Republic of the Congo,COD,AF,2009,108.7,9.7
+Democratic Republic of the Congo,COD,AF,2010,109.9,9.9
+Democratic Republic of the Congo,COD,AF,2011,108.2,9.7
+Democratic Republic of the Congo,COD,AF,2012,111.2,9.9
+Democratic Republic of the Congo,COD,AF,2013,111.9,10
+Democratic Republic of the Congo,COD,AF,2014,110.2,9.4
+Democratic Republic of the Congo,COD,AF,2015,109.7,9.5
+Democratic Republic of the Congo,COD,AF,2016,110,9.1
+Democratic Republic of the Congo,COD,AF,2017,110,9.4
+Democratic Republic of the Congo,COD,AF,2018,110.7,9.6
+Denmark,DNK,EU,2007,22.2,3.2
+Denmark,DNK,EU,2008,21.5,3.2
+Denmark,DNK,EU,2009,23.2,3
+Denmark,DNK,EU,2010,22.9,2.8
+Denmark,DNK,EU,2011,23.8,2.9
+Denmark,DNK,EU,2012,23,2.8
+Denmark,DNK,EU,2013,21.9,2.5
+Denmark,DNK,EU,2014,22.8,2.8
+Denmark,DNK,EU,2015,21.4,2.5
+Denmark,DNK,EU,2016,21.5,2.2
+Denmark,DNK,EU,2017,21.5,2
+Denmark,DNK,EU,2018,19.8,1.7
+Djibouti,DJI,AF,2007,80.3,7.9
+Djibouti,DJI,AF,2008,80,7.7
+Djibouti,DJI,AF,2009,80.6,8
+Djibouti,DJI,AF,2010,81.9,7.9
+Djibouti,DJI,AF,2011,82.6,7.8
+Djibouti,DJI,AF,2012,83.8,8.3
+Djibouti,DJI,AF,2013,85.5,8.3
+Djibouti,DJI,AF,2014,87.1,8.1
+Djibouti,DJI,AF,2015,88,8.2
+Djibouti,DJI,AF,2016,89.7,8.5
+Djibouti,DJI,AF,2017,88.9,8.4
+Djibouti,DJI,AF,2018,87.1,8.1
+Dominican Republic,DOM,NA,2007,80.6,6.5
+Dominican Republic,DOM,NA,2008,78.4,6.5
+Dominican Republic,DOM,NA,2009,77.7,6.7
+Dominican Republic,DOM,NA,2010,76.8,6.5
+Dominican Republic,DOM,NA,2011,76.9,6.5
+Dominican Republic,DOM,NA,2012,74.1,6.5
+Dominican Republic,DOM,NA,2013,73.2,6.4
+Dominican Republic,DOM,NA,2014,73.4,6.5
+Dominican Republic,DOM,NA,2015,71.2,6.8
+Dominican Republic,DOM,NA,2016,70.8,7
+Dominican Republic,DOM,NA,2017,69,6.5
+Dominican Republic,DOM,NA,2018,69.2,7
+Ecuador,ECU,SA,2007,79.9,6.2
+Ecuador,ECU,SA,2008,80.3,6.2
+Ecuador,ECU,SA,2009,81.2,6.5
+Ecuador,ECU,SA,2010,81.7,6.3
+Ecuador,ECU,SA,2011,82.2,5.9
+Ecuador,ECU,SA,2012,80.1,5.6
+Ecuador,ECU,SA,2013,78.6,5.8
+Ecuador,ECU,SA,2014,77.3,5.9
+Ecuador,ECU,SA,2015,75.9,5.7
+Ecuador,ECU,SA,2016,75.6,6
+Ecuador,ECU,SA,2017,77.3,6.5
+Ecuador,ECU,SA,2018,74.2,6
+Egypt,EGY,AF,2007,89.2,7.7
+Egypt,EGY,AF,2008,88.7,7.5
+Egypt,EGY,AF,2009,89,7.6
+Egypt,EGY,AF,2010,87.6,7.4
+Egypt,EGY,AF,2011,86.8,7.1
+Egypt,EGY,AF,2012,90.4,7.1
+Egypt,EGY,AF,2013,90.6,7.2
+Egypt,EGY,AF,2014,91,7.1
+Egypt,EGY,AF,2015,89.9,7.1
+Egypt,EGY,AF,2016,90.2,6.8
+Egypt,EGY,AF,2017,89.8,7.1
+Egypt,EGY,AF,2018,88.7,6.6
+El Salvador,SLV,NA,2007,74.9,7.6
+El Salvador,SLV,NA,2008,75.5,7.4
+El Salvador,SLV,NA,2009,77.2,7.6
+El Salvador,SLV,NA,2010,78.1,8.1
+El Salvador,SLV,NA,2011,76,7.6
+El Salvador,SLV,NA,2012,74.4,7.7
+El Salvador,SLV,NA,2013,73.2,7.4
+El Salvador,SLV,NA,2014,72,7.1
+El Salvador,SLV,NA,2015,71.4,6.9
+El Salvador,SLV,NA,2016,72.5,6.6
+El Salvador,SLV,NA,2017,73.1,6.9
+El Salvador,SLV,NA,2018,71.2,6.9
+Equatorial Guinea,GNQ,AF,2007,88.2,8
+Equatorial Guinea,GNQ,AF,2008,88,7.8
+Equatorial Guinea,GNQ,AF,2009,88.3,8.3
+Equatorial Guinea,GNQ,AF,2010,88.5,8.4
+Equatorial Guinea,GNQ,AF,2011,88.1,8.5
+Equatorial Guinea,GNQ,AF,2012,86.3,8.2
+Equatorial Guinea,GNQ,AF,2013,86.1,8.3
+Equatorial Guinea,GNQ,AF,2014,85.3,8
+Equatorial Guinea,GNQ,AF,2015,84.8,7.7
+Equatorial Guinea,GNQ,AF,2016,85.2,7.7
+Equatorial Guinea,GNQ,AF,2017,85,7.5
+Equatorial Guinea,GNQ,AF,2018,83.4,7.6
+Eritrea,ERI,AF,2007,85.5,8.1
+Eritrea,ERI,AF,2008,87.4,8.6
+Eritrea,ERI,AF,2009,90.3,8.6
+Eritrea,ERI,AF,2010,93.3,8.7
+Eritrea,ERI,AF,2011,93.6,8.3
+Eritrea,ERI,AF,2012,94.5,8.6
+Eritrea,ERI,AF,2013,95,8.7
+Eritrea,ERI,AF,2014,95.5,8.5
+Eritrea,ERI,AF,2015,96.9,8.8
+Eritrea,ERI,AF,2016,98.6,9.1
+Eritrea,ERI,AF,2017,98.1,8.8
+Eritrea,ERI,AF,2018,97.2,8.7
+Estonia,EST,EU,2007,50.5,4.8
+Estonia,EST,EU,2008,51,4.8
+Estonia,EST,EU,2009,51.2,4.7
+Estonia,EST,EU,2010,50.7,4.5
+Estonia,EST,EU,2011,49.3,4.1
+Estonia,EST,EU,2012,47.5,3.8
+Estonia,EST,EU,2013,45.3,3.5
+Estonia,EST,EU,2014,45.2,3.6
+Estonia,EST,EU,2015,43.7,3.3
+Estonia,EST,EU,2016,43.4,3
+Estonia,EST,EU,2017,44.7,2.8
+Estonia,EST,EU,2018,43,2.5
+Ethiopia,ETH,AF,2007,95.3,9
+Ethiopia,ETH,AF,2008,96.1,8.9
+Ethiopia,ETH,AF,2009,98.9,9.4
+Ethiopia,ETH,AF,2010,98.8,9.2
+Ethiopia,ETH,AF,2011,98.2,9.1
+Ethiopia,ETH,AF,2012,97.9,9.6
+Ethiopia,ETH,AF,2013,98.9,9.7
+Ethiopia,ETH,AF,2014,97.9,9.4
+Ethiopia,ETH,AF,2015,97.5,9.2
+Ethiopia,ETH,AF,2016,97.2,9.3
+Ethiopia,ETH,AF,2017,101.1,9.8
+Ethiopia,ETH,AF,2018,99.6,9.5
+Fiji,FJI,OC,2007,75.7,5.9
+Fiji,FJI,OC,2008,76.6,5.9
+Fiji,FJI,OC,2009,78.8,6.1
+Fiji,FJI,OC,2010,80.5,5.9
+Fiji,FJI,OC,2011,81.1,5.9
+Fiji,FJI,OC,2012,80.5,5.1
+Fiji,FJI,OC,2013,80.8,5.2
+Fiji,FJI,OC,2014,79,5
+Fiji,FJI,OC,2015,76.7,4.7
+Fiji,FJI,OC,2016,76.2,4.4
+Fiji,FJI,OC,2017,76.9,4.9
+Fiji,FJI,OC,2018,74.5,4.4
+Finland,FIN,EU,2007,18.5,2.5
+Finland,FIN,EU,2008,18.4,2.6
+Finland,FIN,EU,2009,19.2,2.5
+Finland,FIN,EU,2010,19.3,2.3
+Finland,FIN,EU,2011,19.7,2
+Finland,FIN,EU,2012,20,2.2
+Finland,FIN,EU,2013,18,1.9
+Finland,FIN,EU,2014,18.7,1.8
+Finland,FIN,EU,2015,17.7,1.5
+Finland,FIN,EU,2016,18.8,1.3
+Finland,FIN,EU,2017,18.7,1.1
+Finland,FIN,EU,2018,17.9,1.1
+France,FRA,EU,2007,34.1,4.1
+France,FRA,EU,2008,34.8,4.1
+France,FRA,EU,2009,35.3,3.9
+France,FRA,EU,2010,34.9,3.7
+France,FRA,EU,2011,34,3.3
+France,FRA,EU,2012,33.6,3
+France,FRA,EU,2013,32.6,2.7
+France,FRA,EU,2014,34.8,3
+France,FRA,EU,2015,33.7,2.8
+France,FRA,EU,2016,34.5,3
+France,FRA,EU,2017,33.5,2.8
+France,FRA,EU,2018,32.2,2.5
+Gabon,GAB,AF,2007,73.3,6.6
+Gabon,GAB,AF,2008,75,6.9
+Gabon,GAB,AF,2009,74.4,7.2
+Gabon,GAB,AF,2010,75.3,7
+Gabon,GAB,AF,2011,75.3,6.8
+Gabon,GAB,AF,2012,74.6,6.5
+Gabon,GAB,AF,2013,72.9,6.8
+Gabon,GAB,AF,2014,72.2,6.9
+Gabon,GAB,AF,2015,71.2,7.1
+Gabon,GAB,AF,2016,72,6.8
+Gabon,GAB,AF,2017,73.8,6.7
+Gabon,GAB,AF,2018,72.5,6.6
+Gambia,GMB,AF,2007,76,6.4
+Gambia,GMB,AF,2008,76.9,6.9
+Gambia,GMB,AF,2009,79,7.2
+Gambia,GMB,AF,2010,80.2,7.6
+Gambia,GMB,AF,2011,80.9,7.9
+Gambia,GMB,AF,2012,80.6,7.8
+Gambia,GMB,AF,2013,81.8,7.7
+Gambia,GMB,AF,2014,83.1,7.9
+Gambia,GMB,AF,2015,85.4,8.2
+Gambia,GMB,AF,2016,86.8,8.5
+Gambia,GMB,AF,2017,89.4,8.3
+Gambia,GMB,AF,2018,87.1,8.1
+Georgia,GEO,AS,2007,82.3,6.3
+Georgia,GEO,AS,2008,83.8,6.3
+Georgia,GEO,AS,2009,91.8,6.4
+Georgia,GEO,AS,2010,90.4,6.2
+Georgia,GEO,AS,2011,86.4,5.8
+Georgia,GEO,AS,2012,84.8,5.5
+Georgia,GEO,AS,2013,84.2,5.2
+Georgia,GEO,AS,2014,82.7,4.9
+Georgia,GEO,AS,2015,79.2,3.9
+Georgia,GEO,AS,2016,78.9,4.2
+Georgia,GEO,AS,2017,76.5,3.7
+Georgia,GEO,AS,2018,74,3.4
+Germany,DEU,EU,2007,38.4,3.9
+Germany,DEU,EU,2008,37.3,3.9
+Germany,DEU,EU,2009,36.2,3.5
+Germany,DEU,EU,2010,35.4,3.3
+Germany,DEU,EU,2011,33.9,2.9
+Germany,DEU,EU,2012,31.7,2.5
+Germany,DEU,EU,2013,29.7,2.4
+Germany,DEU,EU,2014,30.6,2.9
+Germany,DEU,EU,2015,28.1,2.5
+Germany,DEU,EU,2016,28.6,2.2
+Germany,DEU,EU,2017,28.1,2
+Germany,DEU,EU,2018,25.8,1.7
+Ghana,GHA,AF,2007,61.9,6
+Ghana,GHA,AF,2008,64.6,6.8
+Ghana,GHA,AF,2009,66.2,7
+Ghana,GHA,AF,2010,67.1,7.1
+Ghana,GHA,AF,2011,67.7,6.8
+Ghana,GHA,AF,2012,67.5,6.7
+Ghana,GHA,AF,2013,69.1,6.7
+Ghana,GHA,AF,2014,70.7,6.9
+Ghana,GHA,AF,2015,71.8,7.1
+Ghana,GHA,AF,2016,71.2,7.1
+Ghana,GHA,AF,2017,69.7,6.6
+Ghana,GHA,AF,2018,68.1,6.7
+Greece,GRC,EU,2007,43.5,4.7
+Greece,GRC,EU,2008,45.4,4.9
+Greece,GRC,EU,2009,46.1,4.5
+Greece,GRC,EU,2010,45.9,4.5
+Greece,GRC,EU,2011,47.4,4.1
+Greece,GRC,EU,2012,50.4,3.8
+Greece,GRC,EU,2013,50.6,4.3
+Greece,GRC,EU,2014,52.1,3.5
+Greece,GRC,EU,2015,52.6,3.6
+Greece,GRC,EU,2016,55.9,3.9
+Greece,GRC,EU,2017,57.5,3.7
+Greece,GRC,EU,2018,55.3,4.2
+Grenada,GRD,NA,2007,71.6,5.9
+Grenada,GRD,NA,2008,69,5.7
+Grenada,GRD,NA,2009,67.9,5.9
+Grenada,GRD,NA,2010,67,5.8
+Grenada,GRD,NA,2011,66.4,5.8
+Grenada,GRD,NA,2012,65,5.5
+Grenada,GRD,NA,2013,64.6,5.2
+Grenada,GRD,NA,2014,65.2,5.5
+Grenada,GRD,NA,2015,63.5,5.2
+Grenada,GRD,NA,2016,63,4.9
+Grenada,GRD,NA,2017,61.5,4.7
+Grenada,GRD,NA,2018,59.9,4.5
+Guatemala,GTM,NA,2007,81.4,7
+Guatemala,GTM,NA,2008,80.6,6.8
+Guatemala,GTM,NA,2009,80.6,7
+Guatemala,GTM,NA,2010,81.2,7.4
+Guatemala,GTM,NA,2011,80.1,7.3
+Guatemala,GTM,NA,2012,79.4,7
+Guatemala,GTM,NA,2013,80.7,7.3
+Guatemala,GTM,NA,2014,80.3,7.2
+Guatemala,GTM,NA,2015,80.4,7.3
+Guatemala,GTM,NA,2016,83.2,7.4
+Guatemala,GTM,NA,2017,83.1,7
+Guatemala,GTM,NA,2018,81.8,7.1
+Guinea,GIN,AF,2007,101.3,7.8
+Guinea,GIN,AF,2008,101.8,7.9
+Guinea,GIN,AF,2009,104.6,8.5
+Guinea,GIN,AF,2010,105,8.3
+Guinea,GIN,AF,2011,102.5,8.2
+Guinea,GIN,AF,2012,101.9,8.3
+Guinea,GIN,AF,2013,101.3,8.4
+Guinea,GIN,AF,2014,102.7,8
+Guinea,GIN,AF,2015,104.9,9
+Guinea,GIN,AF,2016,103.8,8.9
+Guinea,GIN,AF,2017,102.4,8.7
+Guinea,GIN,AF,2018,101.6,8.8
+Guinea-Bissau,GNB,AF,2007,88.8,7.6
+Guinea-Bissau,GNB,AF,2008,91.3,8
+Guinea-Bissau,GNB,AF,2009,94.8,8.6
+Guinea-Bissau,GNB,AF,2010,97.2,8.5
+Guinea-Bissau,GNB,AF,2011,98.3,8.7
+Guinea-Bissau,GNB,AF,2012,99.2,8.7
+Guinea-Bissau,GNB,AF,2013,101.1,8.4
+Guinea-Bissau,GNB,AF,2014,100.6,8.5
+Guinea-Bissau,GNB,AF,2015,99.9,8.2
+Guinea-Bissau,GNB,AF,2016,99.8,8.3
+Guinea-Bissau,GNB,AF,2017,99.5,8.6
+Guinea-Bissau,GNB,AF,2018,98.1,8.8
+Guyana,GUY,SA,2007,73.3,6.9
+Guyana,GUY,SA,2008,72.2,6.3
+Guyana,GUY,SA,2009,73,6.3
+Guyana,GUY,SA,2010,73,6.1
+Guyana,GUY,SA,2011,72.6,6.4
+Guyana,GUY,SA,2012,71.4,6.1
+Guyana,GUY,SA,2013,70.8,5.8
+Guyana,GUY,SA,2014,71,5.9
+Guyana,GUY,SA,2015,70.5,5.6
+Guyana,GUY,SA,2016,70.9,5.5
+Guyana,GUY,SA,2017,71.3,5.8
+Guyana,GUY,SA,2018,70.4,5.9
+Haiti,HTI,NA,2007,100.9,8.6
+Haiti,HTI,NA,2008,99.3,8.5
+Haiti,HTI,NA,2009,101.8,9.3
+Haiti,HTI,NA,2010,101.6,9.3
+Haiti,HTI,NA,2011,108,10
+Haiti,HTI,NA,2012,104.9,9.5
+Haiti,HTI,NA,2013,105.8,9.6
+Haiti,HTI,NA,2014,104.3,8.7
+Haiti,HTI,NA,2015,104.5,9.5
+Haiti,HTI,NA,2016,105.1,9.2
+Haiti,HTI,NA,2017,105.3,9.5
+Haiti,HTI,NA,2018,102,9
+Honduras,HND,NA,2007,74.8,7.8
+Honduras,HND,NA,2008,74.9,7.2
+Honduras,HND,NA,2009,77.2,7.8
+Honduras,HND,NA,2010,80,7.6
+Honduras,HND,NA,2011,78.3,7.6
+Honduras,HND,NA,2012,78.5,7.3
+Honduras,HND,NA,2013,78.3,7
+Honduras,HND,NA,2014,77.9,6.7
+Honduras,HND,NA,2015,78.1,6.8
+Honduras,HND,NA,2016,79.8,6.5
+Honduras,HND,NA,2017,79.1,6.3
+Honduras,HND,NA,2018,77.3,5.8
+Hungary,HUN,EU,2007,51.2,3.7
+Hungary,HUN,EU,2008,50.9,3.7
+Hungary,HUN,EU,2009,50.7,3.5
+Hungary,HUN,EU,2010,50.1,3.3
+Hungary,HUN,EU,2011,48.7,3.1
+Hungary,HUN,EU,2012,48.3,2.8
+Hungary,HUN,EU,2013,47.6,2.5
+Hungary,HUN,EU,2014,48.3,2.8
+Hungary,HUN,EU,2015,49.1,2.3
+Hungary,HUN,EU,2016,52.7,2
+Hungary,HUN,EU,2017,52,1.8
+Hungary,HUN,EU,2018,50.2,1.5
+Iceland,ISL,EU,2007,21.1,1
+Iceland,ISL,EU,2008,20.9,1
+Iceland,ISL,EU,2009,29,1
+Iceland,ISL,EU,2010,29.8,0.8
+Iceland,ISL,EU,2011,30.1,1.6
+Iceland,ISL,EU,2012,29.1,1.9
+Iceland,ISL,EU,2013,24.7,1.6
+Iceland,ISL,EU,2014,25.9,1.9
+Iceland,ISL,EU,2015,23.4,1.6
+Iceland,ISL,EU,2016,22.8,1.8
+Iceland,ISL,EU,2017,22.5,1.6
+Iceland,ISL,EU,2018,20.3,1.4
+India,IND,AS,2007,70.8,8.3
+India,IND,AS,2008,72.9,8
+India,IND,AS,2009,77.8,8.3
+India,IND,AS,2010,79.2,8.1
+India,IND,AS,2011,79.3,8
+India,IND,AS,2012,78,7.3
+India,IND,AS,2013,77.5,7.5
+India,IND,AS,2014,76.9,7.7
+India,IND,AS,2015,79.3,8
+India,IND,AS,2016,79.6,8.1
+India,IND,AS,2017,77.9,7.9
+India,IND,AS,2018,76.3,8
+Indonesia,IDN,AS,2007,84.4,7
+Indonesia,IDN,AS,2008,83.3,7
+Indonesia,IDN,AS,2009,84.1,7.3
+Indonesia,IDN,AS,2010,83.1,7.2
+Indonesia,IDN,AS,2011,81.6,7.4
+Indonesia,IDN,AS,2012,80.6,7.4
+Indonesia,IDN,AS,2013,78.2,7.5
+Indonesia,IDN,AS,2014,76.8,7.4
+Indonesia,IDN,AS,2015,75,7.1
+Indonesia,IDN,AS,2016,74.9,6.8
+Indonesia,IDN,AS,2017,72.9,6.6
+Indonesia,IDN,AS,2018,72.3,6.7
+Iran,IRN,AS,2007,82.8,6.2
+Iran,IRN,AS,2008,85.7,6.5
+Iran,IRN,AS,2009,90,6.5
+Iran,IRN,AS,2010,92.2,6.4
+Iran,IRN,AS,2011,90.2,6.1
+Iran,IRN,AS,2012,89.6,5.8
+Iran,IRN,AS,2013,89.7,5.5
+Iran,IRN,AS,2014,87.2,5.3
+Iran,IRN,AS,2015,87.1,5.4
+Iran,IRN,AS,2016,86.9,5.1
+Iran,IRN,AS,2017,85.8,4.9
+Iran,IRN,AS,2018,84.3,5
+Iraq,IRQ,AS,2007,111.4,9
+Iraq,IRQ,AS,2008,110.6,9
+Iraq,IRQ,AS,2009,108.6,8.7
+Iraq,IRQ,AS,2010,107.3,8.5
+Iraq,IRQ,AS,2011,104.8,8.3
+Iraq,IRQ,AS,2012,104.3,8
+Iraq,IRQ,AS,2013,103.9,8.3
+Iraq,IRQ,AS,2014,102.2,8
+Iraq,IRQ,AS,2015,104.4,8.2
+Iraq,IRQ,AS,2016,104.7,8.1
+Iraq,IRQ,AS,2017,105.4,8.6
+Iraq,IRQ,AS,2018,102.2,8.7
+Ireland,IRL,EU,2007,19.5,1.6
+Ireland,IRL,EU,2008,19.9,1.9
+Ireland,IRL,EU,2009,21.6,1.9
+Ireland,IRL,EU,2010,22.4,2
+Ireland,IRL,EU,2011,25.3,2.3
+Ireland,IRL,EU,2012,26.5,2.5
+Ireland,IRL,EU,2013,24.8,2.2
+Ireland,IRL,EU,2014,26.1,2.5
+Ireland,IRL,EU,2015,24.6,2.2
+Ireland,IRL,EU,2016,22.5,1.9
+Ireland,IRL,EU,2017,22.3,1.7
+Ireland,IRL,EU,2018,20.7,1.5
+Israel,ISR,AS,2007,79.6,7
+Israel,ISR,AS,2008,83.6,7.2
+Israel,ISR,AS,2009,84.6,7.2
+Israel,ISR,AS,2010,84.6,7
+Israel,ISR,AS,2011,84.4,6.8
+Israel,ISR,AS,2012,82.2,6.5
+Israel,ISR,AS,2013,80.8,6.2
+Israel,ISR,AS,2014,79.5,6.3
+Israel,ISR,AS,2015,79.4,6
+Israel,ISR,AS,2016,79.7,5.7
+Israel,ISR,AS,2017,78.9,6
+Israel,ISR,AS,2018,78.5,5.7
+Italy,ITA,EU,2007,37.1,3.6
+Italy,ITA,EU,2008,39.9,3.7
+Italy,ITA,EU,2009,43.9,3.8
+Italy,ITA,EU,2010,45.7,4
+Italy,ITA,EU,2011,45.8,3.6
+Italy,ITA,EU,2012,45.8,3.3
+Italy,ITA,EU,2013,44.6,3.8
+Italy,ITA,EU,2014,43.4,3.6
+Italy,ITA,EU,2015,43.2,3.1
+Italy,ITA,EU,2016,43.1,2.8
+Italy,ITA,EU,2017,45.2,4.3
+Italy,ITA,EU,2018,43.8,3.8
+Ivory Coast,CIV,AF,2007,107.3,8.6
+Ivory Coast,CIV,AF,2008,104.6,8.4
+Ivory Coast,CIV,AF,2009,102.5,8.6
+Ivory Coast,CIV,AF,2010,101.2,8.4
+Ivory Coast,CIV,AF,2011,102.8,8.1
+Ivory Coast,CIV,AF,2012,103.6,7.9
+Ivory Coast,CIV,AF,2013,103.5,7.8
+Ivory Coast,CIV,AF,2014,101.7,7.8
+Ivory Coast,CIV,AF,2015,100.1,8.1
+Ivory Coast,CIV,AF,2016,97.9,8.2
+Ivory Coast,CIV,AF,2017,96.5,8.2
+Ivory Coast,CIV,AF,2018,94.6,8.2
+Jamaica,JAM,NA,2007,65.1,6.1
+Jamaica,JAM,NA,2008,65.7,6.1
+Jamaica,JAM,NA,2009,68.6,6.4
+Jamaica,JAM,NA,2010,67.4,6
+Jamaica,JAM,NA,2011,67.1,6.2
+Jamaica,JAM,NA,2012,65.8,5.9
+Jamaica,JAM,NA,2013,65.6,5.6
+Jamaica,JAM,NA,2014,64.9,5.5
+Jamaica,JAM,NA,2015,64.6,5.2
+Jamaica,JAM,NA,2016,65,4.9
+Jamaica,JAM,NA,2017,65.2,5.2
+Jamaica,JAM,NA,2018,63.1,4.7
+Japan,JPN,AS,2007,28.5,4.1
+Japan,JPN,AS,2008,29.7,4.3
+Japan,JPN,AS,2009,31.2,4.2
+Japan,JPN,AS,2010,31.3,4
+Japan,JPN,AS,2011,31,3.6
+Japan,JPN,AS,2012,43.5,8.3
+Japan,JPN,AS,2013,36.1,5.4
+Japan,JPN,AS,2014,36.3,4.7
+Japan,JPN,AS,2015,36,4.8
+Japan,JPN,AS,2016,35.1,4.5
+Japan,JPN,AS,2017,37.4,6
+Japan,JPN,AS,2018,34.5,4.5
+Jordan,JOR,AS,2007,76.6,6.2
+Jordan,JOR,AS,2008,77.3,6.7
+Jordan,JOR,AS,2009,77.9,6.7
+Jordan,JOR,AS,2010,77,6.8
+Jordan,JOR,AS,2011,74.5,6.4
+Jordan,JOR,AS,2012,74.8,6.5
+Jordan,JOR,AS,2013,75.7,6.7
+Jordan,JOR,AS,2014,76.7,6.7
+Jordan,JOR,AS,2015,76.9,7
+Jordan,JOR,AS,2016,78,6.7
+Jordan,JOR,AS,2017,78.7,6.5
+Jordan,JOR,AS,2018,76.8,6.2
+Kazakhstan,KAZ,AS,2007,72.3,5.7
+Kazakhstan,KAZ,AS,2008,72.4,6.2
+Kazakhstan,KAZ,AS,2009,72.5,6
+Kazakhstan,KAZ,AS,2010,72.7,5.8
+Kazakhstan,KAZ,AS,2011,70.2,5.5
+Kazakhstan,KAZ,AS,2012,70.9,5.6
+Kazakhstan,KAZ,AS,2013,69.8,5.3
+Kazakhstan,KAZ,AS,2014,68.5,5.1
+Kazakhstan,KAZ,AS,2015,68.3,5
+Kazakhstan,KAZ,AS,2016,66.5,4.7
+Kazakhstan,KAZ,AS,2017,65.9,4.5
+Kazakhstan,KAZ,AS,2018,63.4,4.2
+Kenya,KEN,AF,2007,91.3,8.4
+Kenya,KEN,AF,2008,93.4,8.7
+Kenya,KEN,AF,2009,101.4,9
+Kenya,KEN,AF,2010,100.7,9.1
+Kenya,KEN,AF,2011,98.7,8.8
+Kenya,KEN,AF,2012,98.4,8.9
+Kenya,KEN,AF,2013,99.6,9.1
+Kenya,KEN,AF,2014,99,8.7
+Kenya,KEN,AF,2015,97.3,9
+Kenya,KEN,AF,2016,98.3,9.1
+Kenya,KEN,AF,2017,96.4,8.9
+Kenya,KEN,AF,2018,97.4,8.9
+Kuwait,KWT,AS,2007,62.1,5.9
+Kuwait,KWT,AS,2008,62,5.5
+Kuwait,KWT,AS,2009,63.4,5.7
+Kuwait,KWT,AS,2010,61.5,5.5
+Kuwait,KWT,AS,2011,59.5,5.1
+Kuwait,KWT,AS,2012,58.8,4.9
+Kuwait,KWT,AS,2013,59.6,5.1
+Kuwait,KWT,AS,2014,59,5.4
+Kuwait,KWT,AS,2015,57.5,5.1
+Kuwait,KWT,AS,2016,58.5,5.2
+Kuwait,KWT,AS,2017,58.5,5
+Kuwait,KWT,AS,2018,55.9,4.7
+Kyrgyzstan,KGZ,AS,2007,88.2,7.5
+Kyrgyzstan,KGZ,AS,2008,88.8,7.5
+Kyrgyzstan,KGZ,AS,2009,89.1,8
+Kyrgyzstan,KGZ,AS,2010,88.4,7.8
+Kyrgyzstan,KGZ,AS,2011,91.8,7.6
+Kyrgyzstan,KGZ,AS,2012,87.4,6.5
+Kyrgyzstan,KGZ,AS,2013,85.7,6.2
+Kyrgyzstan,KGZ,AS,2014,83.9,6
+Kyrgyzstan,KGZ,AS,2015,82.2,5.9
+Kyrgyzstan,KGZ,AS,2016,81.1,5.7
+Kyrgyzstan,KGZ,AS,2017,80.3,5.5
+Kyrgyzstan,KGZ,AS,2018,78.6,5.6
+Laos,LAO,AS,2007,87.2,8
+Laos,LAO,AS,2008,88.7,8
+Laos,LAO,AS,2009,89,8.2
+Laos,LAO,AS,2010,88.7,7.9
+Laos,LAO,AS,2011,86.7,7.6
+Laos,LAO,AS,2012,85.5,7.8
+Laos,LAO,AS,2013,83.7,7.5
+Laos,LAO,AS,2014,84.3,7.4
+Laos,LAO,AS,2015,84.4,7.1
+Laos,LAO,AS,2016,84.4,7.4
+Laos,LAO,AS,2017,82.4,7.3
+Laos,LAO,AS,2018,80.7,7
+Latvia,LVA,EU,2007,56.7,5.2
+Latvia,LVA,EU,2008,54.5,4.9
+Latvia,LVA,EU,2009,54.6,4.5
+Latvia,LVA,EU,2010,55.4,4.3
+Latvia,LVA,EU,2011,54.2,4.2
+Latvia,LVA,EU,2012,51.9,3.9
+Latvia,LVA,EU,2013,47.9,3.6
+Latvia,LVA,EU,2014,48,3.7
+Latvia,LVA,EU,2015,48.5,3.4
+Latvia,LVA,EU,2016,47.4,3.1
+Latvia,LVA,EU,2017,46.4,2.9
+Latvia,LVA,EU,2018,44.9,2.6
+Lebanon,LBN,AS,2007,92.4,6.9
+Lebanon,LBN,AS,2008,95.7,7.2
+Lebanon,LBN,AS,2009,93.5,7
+Lebanon,LBN,AS,2010,90.9,6.8
+Lebanon,LBN,AS,2011,87.7,6.5
+Lebanon,LBN,AS,2012,85.8,6.2
+Lebanon,LBN,AS,2013,86.3,6.3
+Lebanon,LBN,AS,2014,86.9,6
+Lebanon,LBN,AS,2015,88.1,5.7
+Lebanon,LBN,AS,2016,89.6,5.8
+Lebanon,LBN,AS,2017,88.2,5.6
+Lebanon,LBN,AS,2018,86.8,5.3
+Lesotho,LSO,AF,2007,81.2,9
+Lesotho,LSO,AF,2008,81.7,9.1
+Lesotho,LSO,AF,2009,81.8,9.4
+Lesotho,LSO,AF,2010,82.2,9.2
+Lesotho,LSO,AF,2011,80.4,9
+Lesotho,LSO,AF,2012,79,8.7
+Lesotho,LSO,AF,2013,79.4,8.8
+Lesotho,LSO,AF,2014,78.6,8
+Lesotho,LSO,AF,2015,79.9,7.7
+Lesotho,LSO,AF,2016,80.9,8.2
+Lesotho,LSO,AF,2017,81.7,8.5
+Lesotho,LSO,AF,2018,80.1,8
+Liberia,LBR,AF,2007,92.9,8.1
+Liberia,LBR,AF,2008,91,8.1
+Liberia,LBR,AF,2009,91.8,8.6
+Liberia,LBR,AF,2010,91.7,8.4
+Liberia,LBR,AF,2011,94,8.3
+Liberia,LBR,AF,2012,93.3,8.4
+Liberia,LBR,AF,2013,95.1,8.8
+Liberia,LBR,AF,2014,94.3,8.5
+Liberia,LBR,AF,2015,97.3,9.5
+Liberia,LBR,AF,2016,95.5,9.2
+Liberia,LBR,AF,2017,93.8,9
+Liberia,LBR,AF,2018,92.6,8.5
+Libya,LBY,AF,2007,69.3,6.2
+Libya,LBY,AF,2008,70,6.2
+Libya,LBY,AF,2009,69.4,5.9
+Libya,LBY,AF,2010,69.1,5.7
+Libya,LBY,AF,2011,68.7,5.5
+Libya,LBY,AF,2012,84.9,5.8
+Libya,LBY,AF,2013,84.5,5.5
+Libya,LBY,AF,2014,87.8,5.7
+Libya,LBY,AF,2015,95.3,5.4
+Libya,LBY,AF,2016,96.4,5.1
+Libya,LBY,AF,2017,96.3,4.9
+Libya,LBY,AF,2018,94.6,4.6
+Lithuania,LTU,EU,2007,49,5.4
+Lithuania,LTU,EU,2008,48.7,4.9
+Lithuania,LTU,EU,2009,48,4.5
+Lithuania,LTU,EU,2010,47.8,4.3
+Lithuania,LTU,EU,2011,45.3,4.1
+Lithuania,LTU,EU,2012,44.2,3.8
+Lithuania,LTU,EU,2013,43,3.8
+Lithuania,LTU,EU,2014,43.2,3.6
+Lithuania,LTU,EU,2015,43,3.3
+Lithuania,LTU,EU,2016,42.4,3
+Lithuania,LTU,EU,2017,41.7,2.8
+Lithuania,LTU,EU,2018,39.4,2.5
+Luxembourg,LUX,EU,2007,28.1,2.1
+Luxembourg,LUX,EU,2008,27.9,2.1
+Luxembourg,LUX,EU,2009,27.6,2.1
+Luxembourg,LUX,EU,2010,27.3,1.9
+Luxembourg,LUX,EU,2011,26.1,1.7
+Luxembourg,LUX,EU,2012,25.5,2
+Luxembourg,LUX,EU,2013,23.3,1.7
+Luxembourg,LUX,EU,2014,24.6,2
+Luxembourg,LUX,EU,2015,22.1,1.7
+Luxembourg,LUX,EU,2016,24.1,1.7
+Luxembourg,LUX,EU,2017,23.4,1.6
+Luxembourg,LUX,EU,2018,20.8,1.3
+Madagascar,MDG,AF,2007,76.5,8.5
+Madagascar,MDG,AF,2008,76.7,8.5
+Madagascar,MDG,AF,2009,81.6,8.9
+Madagascar,MDG,AF,2010,82.6,8.6
+Madagascar,MDG,AF,2011,83.2,8.3
+Madagascar,MDG,AF,2012,82.5,8
+Madagascar,MDG,AF,2013,82.7,8.1
+Madagascar,MDG,AF,2014,83.1,8.2
+Madagascar,MDG,AF,2015,83.6,8.5
+Madagascar,MDG,AF,2016,84.2,8.8
+Madagascar,MDG,AF,2017,84,9.1
+Madagascar,MDG,AF,2018,83.6,9
+Malawi,MWI,AF,2007,92.2,9
+Malawi,MWI,AF,2008,92.9,9
+Malawi,MWI,AF,2009,93.8,9.3
+Malawi,MWI,AF,2010,93.6,9.2
+Malawi,MWI,AF,2011,91.2,9.1
+Malawi,MWI,AF,2012,88.8,8.8
+Malawi,MWI,AF,2013,89.2,8.9
+Malawi,MWI,AF,2014,89.1,8.8
+Malawi,MWI,AF,2015,86.9,8.8
+Malawi,MWI,AF,2016,87.6,9.3
+Malawi,MWI,AF,2017,88,9.7
+Malawi,MWI,AF,2018,85.5,9.4
+Malaysia,MYS,AS,2007,65.9,6.3
+Malaysia,MYS,AS,2008,67.2,6.3
+Malaysia,MYS,AS,2009,68.9,6.5
+Malaysia,MYS,AS,2010,69.2,6.3
+Malaysia,MYS,AS,2011,68.7,6
+Malaysia,MYS,AS,2012,68.5,5.7
+Malaysia,MYS,AS,2013,66.1,5.6
+Malaysia,MYS,AS,2014,66.2,5.5
+Malaysia,MYS,AS,2015,65.9,5.8
+Malaysia,MYS,AS,2016,66.1,5.5
+Malaysia,MYS,AS,2017,65.4,5.3
+Malaysia,MYS,AS,2018,63.6,5
+Maldives,MDV,AS,2007,81.1,8
+Maldives,MDV,AS,2008,80.4,7.7
+Maldives,MDV,AS,2009,78.8,6.5
+Maldives,MDV,AS,2010,78.3,6.3
+Maldives,MDV,AS,2011,75.6,6
+Maldives,MDV,AS,2012,75.1,5.7
+Maldives,MDV,AS,2013,75.4,5.4
+Maldives,MDV,AS,2014,75.4,5.7
+Maldives,MDV,AS,2015,74.3,5.8
+Maldives,MDV,AS,2016,74,5.5
+Maldives,MDV,AS,2017,74.4,6
+Maldives,MDV,AS,2018,72.4,5.7
+Mali,MLI,AF,2007,75.5,8.5
+Mali,MLI,AF,2008,75.6,8.5
+Mali,MLI,AF,2009,78.7,8.7
+Mali,MLI,AF,2010,79.3,8.7
+Mali,MLI,AF,2011,79.3,8.8
+Mali,MLI,AF,2012,77.9,8.8
+Mali,MLI,AF,2013,89.3,9.3
+Mali,MLI,AF,2014,89.8,9
+Mali,MLI,AF,2015,92.9,9.1
+Mali,MLI,AF,2016,95.2,8.7
+Mali,MLI,AF,2017,92.9,8.5
+Mali,MLI,AF,2018,93.6,8
+Malta,MLT,EU,2007,48.5,3.8
+Malta,MLT,EU,2008,48.3,3.8
+Malta,MLT,EU,2009,48.8,3.9
+Malta,MLT,EU,2010,48.2,3.7
+Malta,MLT,EU,2011,45.4,3.4
+Malta,MLT,EU,2012,43.8,3.1
+Malta,MLT,EU,2013,42.4,2.8
+Malta,MLT,EU,2014,43,3.1
+Malta,MLT,EU,2015,40.9,2.8
+Malta,MLT,EU,2016,39.6,2.7
+Malta,MLT,EU,2017,38.6,2.5
+Malta,MLT,EU,2018,36.2,2.2
+Mauritania,MRT,AF,2007,86.7,8.7
+Mauritania,MRT,AF,2008,86.1,8.4
+Mauritania,MRT,AF,2009,88.7,8.7
+Mauritania,MRT,AF,2010,89.1,8.5
+Mauritania,MRT,AF,2011,88,8.2
+Mauritania,MRT,AF,2012,87.6,8
+Mauritania,MRT,AF,2013,91.7,8.5
+Mauritania,MRT,AF,2014,93,8.4
+Mauritania,MRT,AF,2015,94.9,8.6
+Mauritania,MRT,AF,2016,95.4,8.9
+Mauritania,MRT,AF,2017,93.7,8.7
+Mauritania,MRT,AF,2018,92.2,8.8
+Mauritius,MUS,AF,2007,42.7,3.6
+Mauritius,MUS,AF,2008,42.4,3.6
+Mauritius,MUS,AF,2009,44.7,3.9
+Mauritius,MUS,AF,2010,44.4,3.7
+Mauritius,MUS,AF,2011,44.2,3.3
+Mauritius,MUS,AF,2012,44.7,3.6
+Mauritius,MUS,AF,2013,44.5,3.8
+Mauritius,MUS,AF,2014,46.1,4.4
+Mauritius,MUS,AF,2015,45.2,4.1
+Mauritius,MUS,AF,2016,43.2,3.8
+Mauritius,MUS,AF,2017,41.7,3.6
+Mauritius,MUS,AF,2018,40.5,3.3
+Mexico,MEX,NA,2007,72.6,6.9
+Mexico,MEX,NA,2008,72.2,7
+Mexico,MEX,NA,2009,75.4,7
+Mexico,MEX,NA,2010,76.1,6.8
+Mexico,MEX,NA,2011,75.1,6.5
+Mexico,MEX,NA,2012,73.6,6
+Mexico,MEX,NA,2013,73.1,6.5
+Mexico,MEX,NA,2014,71.1,6.7
+Mexico,MEX,NA,2015,71.9,6.2
+Mexico,MEX,NA,2016,70.4,6.2
+Mexico,MEX,NA,2017,74.3,6.1
+Mexico,MEX,NA,2018,71.5,5.8
+Micronesia,FSM,OC,2007,73.5,7.7
+Micronesia,FSM,OC,2008,74,7.7
+Micronesia,FSM,OC,2009,71.9,7.2
+Micronesia,FSM,OC,2010,70.6,7
+Micronesia,FSM,OC,2011,71.9,7.1
+Micronesia,FSM,OC,2012,71.9,6.8
+Micronesia,FSM,OC,2013,72.9,7.1
+Micronesia,FSM,OC,2014,74.6,7.2
+Micronesia,FSM,OC,2015,73.5,7.1
+Micronesia,FSM,OC,2016,77.1,7.6
+Micronesia,FSM,OC,2017,76.4,7.1
+Micronesia,FSM,OC,2018,74.4,6.6
+Moldova,MDA,EU,2007,85.7,7
+Moldova,MDA,EU,2008,85.7,7
+Moldova,MDA,EU,2009,85.1,6.6
+Moldova,MDA,EU,2010,83.8,6.4
+Moldova,MDA,EU,2011,81.2,6.1
+Moldova,MDA,EU,2012,78.7,5.8
+Moldova,MDA,EU,2013,76.5,5.9
+Moldova,MDA,EU,2014,75.1,5.6
+Moldova,MDA,EU,2015,73,5.3
+Moldova,MDA,EU,2016,73.2,5
+Moldova,MDA,EU,2017,72,4.8
+Moldova,MDA,EU,2018,69.5,4.5
+Mongolia,MNG,AS,2007,58.4,6
+Mongolia,MNG,AS,2008,57.8,5.8
+Mongolia,MNG,AS,2009,61.9,5.8
+Mongolia,MNG,AS,2010,60.1,5.6
+Mongolia,MNG,AS,2011,59.6,5.5
+Mongolia,MNG,AS,2012,58.7,5.8
+Mongolia,MNG,AS,2013,57.8,5.5
+Mongolia,MNG,AS,2014,58.1,5.8
+Mongolia,MNG,AS,2015,57,5.5
+Mongolia,MNG,AS,2016,56.6,5.3
+Mongolia,MNG,AS,2017,56.7,5.1
+Mongolia,MNG,AS,2018,54.9,4.8
+Montenegro,MNE,EU,2007,55.6,5.4
+Montenegro,MNE,EU,2008,55.8,5.4
+Montenegro,MNE,EU,2009,58,5.1
+Montenegro,MNE,EU,2010,57.3,4.9
+Montenegro,MNE,EU,2011,56.3,4.5
+Montenegro,MNE,EU,2012,55.5,4.2
+Montenegro,MNE,EU,2013,54.4,3.9
+Montenegro,MNE,EU,2014,55.7,3.6
+Montenegro,MNE,EU,2015,54.2,3.3
+Montenegro,MNE,EU,2016,55.2,3
+Montenegro,MNE,EU,2017,55.7,2.8
+Montenegro,MNE,EU,2018,55.3,2.5
+Morocco,MAR,AF,2007,76,6.6
+Morocco,MAR,AF,2008,75.8,6.6
+Morocco,MAR,AF,2009,77.1,7
+Morocco,MAR,AF,2010,77,6.8
+Morocco,MAR,AF,2011,76.3,6.4
+Morocco,MAR,AF,2012,76.1,6.1
+Morocco,MAR,AF,2013,74.3,5.8
+Morocco,MAR,AF,2014,74.4,5.7
+Morocco,MAR,AF,2015,74.6,5.5
+Morocco,MAR,AF,2016,74.2,5
+Morocco,MAR,AF,2017,74.9,4.8
+Morocco,MAR,AF,2018,74,4.9
+Mozambique,MOZ,AF,2007,76.9,7.5
+Mozambique,MOZ,AF,2008,76.8,7.8
+Mozambique,MOZ,AF,2009,80.7,8.7
+Mozambique,MOZ,AF,2010,81.7,8.8
+Mozambique,MOZ,AF,2011,83.6,9
+Mozambique,MOZ,AF,2012,82.4,8.9
+Mozambique,MOZ,AF,2013,82.8,9.2
+Mozambique,MOZ,AF,2014,85.9,8.9
+Mozambique,MOZ,AF,2015,86.9,8.7
+Mozambique,MOZ,AF,2016,87.8,9.5
+Mozambique,MOZ,AF,2017,89,9.9
+Mozambique,MOZ,AF,2018,88.7,9.8
+Namibia,NAM,AF,2007,71.3,6.5
+Namibia,NAM,AF,2008,72.9,7.2
+Namibia,NAM,AF,2009,75.6,7.7
+Namibia,NAM,AF,2010,74.5,7.5
+Namibia,NAM,AF,2011,71.7,7.2
+Namibia,NAM,AF,2012,71,7.1
+Namibia,NAM,AF,2013,70.4,6.9
+Namibia,NAM,AF,2014,71.5,7.1
+Namibia,NAM,AF,2015,70.8,7
+Namibia,NAM,AF,2016,71.1,7.3
+Namibia,NAM,AF,2017,70.4,7.6
+Namibia,NAM,AF,2018,68.8,8.1
+Nepal,NPL,AS,2007,93.6,8.1
+Nepal,NPL,AS,2008,94.2,8.1
+Nepal,NPL,AS,2009,95.4,8.3
+Nepal,NPL,AS,2010,95.4,8.1
+Nepal,NPL,AS,2011,93.7,7.8
+Nepal,NPL,AS,2012,93,7.9
+Nepal,NPL,AS,2013,91.8,7.6
+Nepal,NPL,AS,2014,91,7.8
+Nepal,NPL,AS,2015,90.5,7.9
+Nepal,NPL,AS,2016,91.2,8.8
+Nepal,NPL,AS,2017,91,8.6
+Nepal,NPL,AS,2018,87.9,8.7
+Netherlands,NLD,EU,2007,28.6,3.2
+Netherlands,NLD,EU,2008,27.3,3.4
+Netherlands,NLD,EU,2009,27,2.9
+Netherlands,NLD,EU,2010,27.9,2.7
+Netherlands,NLD,EU,2011,28.3,3
+Netherlands,NLD,EU,2012,28.1,2.9
+Netherlands,NLD,EU,2013,26.9,3
+Netherlands,NLD,EU,2014,28.6,3.3
+Netherlands,NLD,EU,2015,26.9,3
+Netherlands,NLD,EU,2016,28.2,2.7
+Netherlands,NLD,EU,2017,27.4,2.5
+Netherlands,NLD,EU,2018,26.2,2.2
+New Zealand,NZL,OC,2007,20.5,1.1
+New Zealand,NZL,OC,2008,21.4,1.1
+New Zealand,NZL,OC,2009,23.3,1.3
+New Zealand,NZL,OC,2010,23.9,1.5
+New Zealand,NZL,OC,2011,24.8,2
+New Zealand,NZL,OC,2012,25.6,2.4
+New Zealand,NZL,OC,2013,22.7,2.1
+New Zealand,NZL,OC,2014,24.1,2.4
+New Zealand,NZL,OC,2015,22.6,1.9
+New Zealand,NZL,OC,2016,21.3,1.6
+New Zealand,NZL,OC,2017,22.6,2.1
+New Zealand,NZL,OC,2018,20.9,1.8
+Nicaragua,NIC,NA,2007,80,6.7
+Nicaragua,NIC,NA,2008,81.7,7.5
+Nicaragua,NIC,NA,2009,82.6,7.4
+Nicaragua,NIC,NA,2010,82.5,6.8
+Nicaragua,NIC,NA,2011,81.2,6.9
+Nicaragua,NIC,NA,2012,79.6,6.5
+Nicaragua,NIC,NA,2013,79.2,6.6
+Nicaragua,NIC,NA,2014,78.4,5.9
+Nicaragua,NIC,NA,2015,79,6.2
+Nicaragua,NIC,NA,2016,79,5.5
+Nicaragua,NIC,NA,2017,77.4,5.3
+Nicaragua,NIC,NA,2018,75.3,5.4
+Niger,NER,AF,2007,91.2,9.2
+Niger,NER,AF,2008,94.5,9.5
+Niger,NER,AF,2009,96.5,9.5
+Niger,NER,AF,2010,97.8,9.6
+Niger,NER,AF,2011,99.1,9.8
+Niger,NER,AF,2012,96.9,9.3
+Niger,NER,AF,2013,99,9.8
+Niger,NER,AF,2014,97.9,9.3
+Niger,NER,AF,2015,97.8,9.6
+Niger,NER,AF,2016,98.4,9.5
+Niger,NER,AF,2017,97.4,9
+Niger,NER,AF,2018,96.2,9.1
+Nigeria,NGA,AF,2007,95.6,8.2
+Nigeria,NGA,AF,2008,95.7,8.2
+Nigeria,NGA,AF,2009,99.8,8.5
+Nigeria,NGA,AF,2010,100.2,8.4
+Nigeria,NGA,AF,2011,99.9,8.3
+Nigeria,NGA,AF,2012,101.1,8.4
+Nigeria,NGA,AF,2013,100.7,8.5
+Nigeria,NGA,AF,2014,99.7,8.3
+Nigeria,NGA,AF,2015,102.5,8.8
+Nigeria,NGA,AF,2016,103.5,9.1
+Nigeria,NGA,AF,2017,101.6,9.1
+Nigeria,NGA,AF,2018,99.9,9.1
+North Korea,PRK,AS,2007,97.7,8
+North Korea,PRK,AS,2008,97.7,8.2
+North Korea,PRK,AS,2009,98.3,8.5
+North Korea,PRK,AS,2010,97.8,8.5
+North Korea,PRK,AS,2011,95.6,8.2
+North Korea,PRK,AS,2012,95.5,7.9
+North Korea,PRK,AS,2013,95.1,8
+North Korea,PRK,AS,2014,94,7.5
+North Korea,PRK,AS,2015,93.8,7.5
+North Korea,PRK,AS,2016,93.9,7.9
+North Korea,PRK,AS,2017,93.3,7.7
+North Korea,PRK,AS,2018,93.2,7.2
+North Macedonia,MKD,EU,2007,74.1,5.4
+North Macedonia,MKD,EU,2008,74.6,5.4
+North Macedonia,MKD,EU,2009,74.4,5
+North Macedonia,MKD,EU,2010,72.7,4.8
+North Macedonia,MKD,EU,2011,71,4.5
+North Macedonia,MKD,EU,2012,69.1,4.2
+North Macedonia,MKD,EU,2013,68,3.9
+North Macedonia,MKD,EU,2014,66.4,3.8
+North Macedonia,MKD,EU,2015,64.5,3.3
+North Macedonia,MKD,EU,2016,67,3
+North Macedonia,MKD,EU,2017,66.1,3.3
+North Macedonia,MKD,EU,2018,64.8,2.8
+Norway,NOR,EU,2007,17.1,2
+Norway,NOR,EU,2008,16.8,2
+Norway,NOR,EU,2009,18.3,1.9
+Norway,NOR,EU,2010,18.7,1.7
+Norway,NOR,EU,2011,20.4,2
+Norway,NOR,EU,2012,23.9,2.3
+Norway,NOR,EU,2013,21.5,2
+Norway,NOR,EU,2014,23,2.3
+Norway,NOR,EU,2015,20.9,2
+Norway,NOR,EU,2016,21.2,1.7
+Norway,NOR,EU,2017,20.5,1.5
+Norway,NOR,EU,2018,18.3,1.3
+Oman,OMN,AS,2007,45.5,3.1
+Oman,OMN,AS,2008,47.4,4.6
+Oman,OMN,AS,2009,47.2,4.5
+Oman,OMN,AS,2010,48.7,4.7
+Oman,OMN,AS,2011,49.3,5.1
+Oman,OMN,AS,2012,51.7,5.1
+Oman,OMN,AS,2013,52,5
+Oman,OMN,AS,2014,53.1,5.3
+Oman,OMN,AS,2015,52,5
+Oman,OMN,AS,2016,51.6,5
+Oman,OMN,AS,2017,52.5,4.8
+Oman,OMN,AS,2018,52.6,4.5
+Pakistan,PAK,AS,2007,100.1,8.2
+Pakistan,PAK,AS,2008,103.8,8
+Pakistan,PAK,AS,2009,104.1,8.3
+Pakistan,PAK,AS,2010,102.5,8.1
+Pakistan,PAK,AS,2011,102.3,8.8
+Pakistan,PAK,AS,2012,101.6,8.5
+Pakistan,PAK,AS,2013,102.9,8.9
+Pakistan,PAK,AS,2014,103,8.8
+Pakistan,PAK,AS,2015,103,9
+Pakistan,PAK,AS,2016,101.7,8.9
+Pakistan,PAK,AS,2017,98.9,8.4
+Pakistan,PAK,AS,2018,96.3,8.1
+Panama,PAN,NA,2007,59.4,6.6
+Panama,PAN,NA,2008,58.6,6.4
+Panama,PAN,NA,2009,59.7,6.6
+Panama,PAN,NA,2010,59.3,6.3
+Panama,PAN,NA,2011,57.8,6
+Panama,PAN,NA,2012,56.1,5.8
+Panama,PAN,NA,2013,55.8,5.9
+Panama,PAN,NA,2014,55.7,5.6
+Panama,PAN,NA,2015,54.6,5.7
+Panama,PAN,NA,2016,53.2,5.4
+Panama,PAN,NA,2017,50.7,4.9
+Panama,PAN,NA,2018,49.5,4.4
+Papua New Guinea,PNG,OC,2007,85.1,7.5
+Papua New Guinea,PNG,OC,2008,84.6,7.5
+Papua New Guinea,PNG,OC,2009,84.1,7.5
+Papua New Guinea,PNG,OC,2010,83.9,7.5
+Papua New Guinea,PNG,OC,2011,84.2,7.4
+Papua New Guinea,PNG,OC,2012,83.7,7.4
+Papua New Guinea,PNG,OC,2013,84.9,7.6
+Papua New Guinea,PNG,OC,2014,84.1,7.6
+Papua New Guinea,PNG,OC,2015,83.4,7.3
+Papua New Guinea,PNG,OC,2016,86.2,7.9
+Papua New Guinea,PNG,OC,2017,86.4,7.8
+Papua New Guinea,PNG,OC,2018,84.8,7.8
+Paraguay,PRY,SA,2007,72.9,6.5
+Paraguay,PRY,SA,2008,72.3,6.6
+Paraguay,PRY,SA,2009,72,6.4
+Paraguay,PRY,SA,2010,72.1,6.2
+Paraguay,PRY,SA,2011,72.4,5.9
+Paraguay,PRY,SA,2012,70.9,6
+Paraguay,PRY,SA,2013,71.8,6.1
+Paraguay,PRY,SA,2014,71.6,5.8
+Paraguay,PRY,SA,2015,71.3,5.9
+Paraguay,PRY,SA,2016,72.6,6.2
+Paraguay,PRY,SA,2017,71.6,5.7
+Paraguay,PRY,SA,2018,69.8,5.4
+Peru,PER,SA,2007,76.4,6.6
+Peru,PER,SA,2008,77.5,6.9
+Peru,PER,SA,2009,77.1,6.6
+Peru,PER,SA,2010,76.9,6.4
+Peru,PER,SA,2011,73.6,6.1
+Peru,PER,SA,2012,73.5,6.1
+Peru,PER,SA,2013,72.3,5.9
+Peru,PER,SA,2014,72.9,5.8
+Peru,PER,SA,2015,72,5.3
+Peru,PER,SA,2016,72,5.2
+Peru,PER,SA,2017,70.3,5
+Peru,PER,SA,2018,70.1,6.5
+Philippines,PHL,AS,2007,83.2,7
+Philippines,PHL,AS,2008,83.4,6.9
+Philippines,PHL,AS,2009,85.8,7.2
+Philippines,PHL,AS,2010,87.1,7.7
+Philippines,PHL,AS,2011,85,7.3
+Philippines,PHL,AS,2012,83.2,7.3
+Philippines,PHL,AS,2013,82.8,7.1
+Philippines,PHL,AS,2014,85.3,7.8
+Philippines,PHL,AS,2015,86.2,8.2
+Philippines,PHL,AS,2016,84.7,7.7
+Philippines,PHL,AS,2017,84.4,7.5
+Philippines,PHL,AS,2018,85.5,7.5
+Poland,POL,EU,2007,47.6,4.9
+Poland,POL,EU,2008,47.6,4.8
+Poland,POL,EU,2009,49.6,4.9
+Poland,POL,EU,2010,49,4.7
+Poland,POL,EU,2011,46.8,4.3
+Poland,POL,EU,2012,44.3,3.8
+Poland,POL,EU,2013,40.9,3.5
+Poland,POL,EU,2014,42.1,3.6
+Poland,POL,EU,2015,39.8,3.3
+Poland,POL,EU,2016,40.7,3
+Poland,POL,EU,2017,40.8,3
+Poland,POL,EU,2018,41.5,2.7
+Portugal,PRT,EU,2007,32.4,4.8
+Portugal,PRT,EU,2008,31.8,4.3
+Portugal,PRT,EU,2009,32.7,3.9
+Portugal,PRT,EU,2010,33.1,3.7
+Portugal,PRT,EU,2011,32.3,3.3
+Portugal,PRT,EU,2012,34.2,3.1
+Portugal,PRT,EU,2013,32.6,2.8
+Portugal,PRT,EU,2014,33.1,3.1
+Portugal,PRT,EU,2015,29.7,2.6
+Portugal,PRT,EU,2016,29.2,2.3
+Portugal,PRT,EU,2017,29,2.1
+Portugal,PRT,EU,2018,27.3,2.6
+Qatar,QAT,AS,2007,53.6,5
+Qatar,QAT,AS,2008,52.7,4.7
+Qatar,QAT,AS,2009,51.9,4.7
+Qatar,QAT,AS,2010,51.8,4.5
+Qatar,QAT,AS,2011,49.5,4.2
+Qatar,QAT,AS,2012,48,4.2
+Qatar,QAT,AS,2013,47.1,4.3
+Qatar,QAT,AS,2014,48.9,4.6
+Qatar,QAT,AS,2015,46.3,4.3
+Qatar,QAT,AS,2016,45.1,4
+Qatar,QAT,AS,2017,44,3.8
+Qatar,QAT,AS,2018,48.1,3.5
+Republic of the Congo,COG,AF,2007,93,8.7
+Republic of the Congo,COG,AF,2008,93.4,8.7
+Republic of the Congo,COG,AF,2009,93.1,8.9
+Republic of the Congo,COG,AF,2010,92.5,8.7
+Republic of the Congo,COG,AF,2011,91.4,8.5
+Republic of the Congo,COG,AF,2012,90.1,8.3
+Republic of the Congo,COG,AF,2013,90,8.2
+Republic of the Congo,COG,AF,2014,89.6,8.1
+Republic of the Congo,COG,AF,2015,90.8,7.8
+Republic of the Congo,COG,AF,2016,92.2,8.1
+Republic of the Congo,COG,AF,2017,93.4,8.1
+Republic of the Congo,COG,AF,2018,93.1,8.2
+Romania,ROU,EU,2007,60.9,5.5
+Romania,ROU,EU,2008,59.9,5.3
+Romania,ROU,EU,2009,61.3,5.6
+Romania,ROU,EU,2010,60.2,5.4
+Romania,ROU,EU,2011,59.8,5.1
+Romania,ROU,EU,2012,59.5,4.6
+Romania,ROU,EU,2013,57.4,4.3
+Romania,ROU,EU,2014,56.9,4
+Romania,ROU,EU,2015,54.2,3.7
+Romania,ROU,EU,2016,52.9,3.4
+Romania,ROU,EU,2017,50.9,3.2
+Romania,ROU,EU,2018,49.4,2.9
+Russia,RUS,EU,2007,81.2,7.5
+Russia,RUS,EU,2008,79.7,7
+Russia,RUS,EU,2009,80.8,7
+Russia,RUS,EU,2010,79,6.7
+Russia,RUS,EU,2011,77.7,6.3
+Russia,RUS,EU,2012,77.1,6
+Russia,RUS,EU,2013,77.1,5.7
+Russia,RUS,EU,2014,76.5,5.4
+Russia,RUS,EU,2015,80,5.1
+Russia,RUS,EU,2016,81,4.8
+Russia,RUS,EU,2017,79.2,4.6
+Russia,RUS,EU,2018,77.2,4.7
+Rwanda,RWA,AF,2007,89.2,9.1
+Rwanda,RWA,AF,2008,88,9.1
+Rwanda,RWA,AF,2009,89,9.3
+Rwanda,RWA,AF,2010,88.7,9.1
+Rwanda,RWA,AF,2011,91,8.9
+Rwanda,RWA,AF,2012,89.3,8.6
+Rwanda,RWA,AF,2013,89.3,8.4
+Rwanda,RWA,AF,2014,90.5,8
+Rwanda,RWA,AF,2015,90.2,8
+Rwanda,RWA,AF,2016,91.3,8.2
+Rwanda,RWA,AF,2017,90.8,8
+Rwanda,RWA,AF,2018,89.3,7.7
+Samoa,WSM,OC,2007,73.8,6.8
+Samoa,WSM,OC,2008,72.4,6.8
+Samoa,WSM,OC,2009,71.4,6.5
+Samoa,WSM,OC,2010,71.1,6.9
+Samoa,WSM,OC,2011,69.5,7
+Samoa,WSM,OC,2012,68.5,6.7
+Samoa,WSM,OC,2013,68.7,6.8
+Samoa,WSM,OC,2014,69.3,6.5
+Samoa,WSM,OC,2015,68.2,6.2
+Samoa,WSM,OC,2016,67.6,5.9
+Samoa,WSM,OC,2017,67.1,5.7
+Samoa,WSM,OC,2018,65.5,5.4
+Sao Tome and Principe,STP,AF,2007,78.6,7.9
+Sao Tome and Principe,STP,AF,2008,78.3,7.9
+Sao Tome and Principe,STP,AF,2009,76.7,8
+Sao Tome and Principe,STP,AF,2010,75.8,7.5
+Sao Tome and Principe,STP,AF,2011,74.5,7.1
+Sao Tome and Principe,STP,AF,2012,73.9,6.8
+Sao Tome and Principe,STP,AF,2013,74.6,6.6
+Sao Tome and Principe,STP,AF,2014,75.8,6.9
+Sao Tome and Principe,STP,AF,2015,73.7,6.7
+Sao Tome and Principe,STP,AF,2016,72.9,6.4
+Sao Tome and Principe,STP,AF,2017,72.1,6.2
+Sao Tome and Principe,STP,AF,2018,72.1,6.3
+Saudi Arabia,SAU,AS,2007,76.5,5.9
+Saudi Arabia,SAU,AS,2008,76.9,6.3
+Saudi Arabia,SAU,AS,2009,77.5,6.5
+Saudi Arabia,SAU,AS,2010,77.5,6.3
+Saudi Arabia,SAU,AS,2011,75.2,6
+Saudi Arabia,SAU,AS,2012,73.4,5.8
+Saudi Arabia,SAU,AS,2013,72.7,5.5
+Saudi Arabia,SAU,AS,2014,73.1,6
+Saudi Arabia,SAU,AS,2015,71.6,5.8
+Saudi Arabia,SAU,AS,2016,72.2,5.5
+Saudi Arabia,SAU,AS,2017,71.2,5.3
+Saudi Arabia,SAU,AS,2018,70.2,5
+Senegal,SEN,AF,2007,66.9,7
+Senegal,SEN,AF,2008,70.9,7
+Senegal,SEN,AF,2009,74.2,7.4
+Senegal,SEN,AF,2010,74.6,7.6
+Senegal,SEN,AF,2011,76.8,7.6
+Senegal,SEN,AF,2012,79.3,7.8
+Senegal,SEN,AF,2013,81.4,8.3
+Senegal,SEN,AF,2014,82.8,8.1
+Senegal,SEN,AF,2015,82.9,8
+Senegal,SEN,AF,2016,83.6,8.3
+Senegal,SEN,AF,2017,82.3,8.1
+Senegal,SEN,AF,2018,79.6,7.7
+Serbia,SRB,EU,2007,81.1,6
+Serbia,SRB,EU,2008,80.1,6
+Serbia,SRB,EU,2009,79.2,5.8
+Serbia,SRB,EU,2010,77.8,5.6
+Serbia,SRB,EU,2011,74.4,5.3
+Serbia,SRB,EU,2012,75,5
+Serbia,SRB,EU,2013,74.4,4.7
+Serbia,SRB,EU,2014,72,4.2
+Serbia,SRB,EU,2015,73.8,5.5
+Serbia,SRB,EU,2016,72,4.5
+Serbia,SRB,EU,2017,70,4.3
+Serbia,SRB,EU,2018,68.1,4
+Seychelles,SYC,AF,2007,71.3,6.9
+Seychelles,SYC,AF,2008,69.5,6.7
+Seychelles,SYC,AF,2009,67.7,6.3
+Seychelles,SYC,AF,2010,67.9,6.1
+Seychelles,SYC,AF,2011,67,5.8
+Seychelles,SYC,AF,2012,65.1,5.5
+Seychelles,SYC,AF,2013,64,5.2
+Seychelles,SYC,AF,2014,63.7,5.4
+Seychelles,SYC,AF,2015,62.1,5.1
+Seychelles,SYC,AF,2016,60.2,4.8
+Seychelles,SYC,AF,2017,59.4,5.1
+Seychelles,SYC,AF,2018,56.8,4.8
+Sierra Leone,SLE,AF,2007,93.4,8.6
+Sierra Leone,SLE,AF,2008,92.3,8.6
+Sierra Leone,SLE,AF,2009,92.1,8.9
+Sierra Leone,SLE,AF,2010,93.6,9.1
+Sierra Leone,SLE,AF,2011,92.1,8.9
+Sierra Leone,SLE,AF,2012,90.4,8.9
+Sierra Leone,SLE,AF,2013,91.2,9
+Sierra Leone,SLE,AF,2014,89.9,8.7
+Sierra Leone,SLE,AF,2015,91.9,9.5
+Sierra Leone,SLE,AF,2016,91,9.2
+Sierra Leone,SLE,AF,2017,89.3,9
+Sierra Leone,SLE,AF,2018,89.1,9.1
+Singapore,SGP,AS,2007,33,2.9
+Singapore,SGP,AS,2008,33.3,2.9
+Singapore,SGP,AS,2009,33.8,3
+Singapore,SGP,AS,2010,34.8,2.8
+Singapore,SGP,AS,2011,35.1,2.5
+Singapore,SGP,AS,2012,35.6,2.6
+Singapore,SGP,AS,2013,34,2.5
+Singapore,SGP,AS,2014,35.9,2.8
+Singapore,SGP,AS,2015,34.4,2.9
+Singapore,SGP,AS,2016,32.9,2.7
+Singapore,SGP,AS,2017,32.5,2.5
+Singapore,SGP,AS,2018,30.4,2.2
+Slovakia,SVK,EU,2007,49.3,4.3
+Slovakia,SVK,EU,2008,48.8,4.3
+Slovakia,SVK,EU,2009,48.6,4.3
+Slovakia,SVK,EU,2010,48.8,4.1
+Slovakia,SVK,EU,2011,47.1,3.8
+Slovakia,SVK,EU,2012,47.4,3.5
+Slovakia,SVK,EU,2013,45.3,3.2
+Slovakia,SVK,EU,2014,45.3,3.1
+Slovakia,SVK,EU,2015,42.6,2.8
+Slovakia,SVK,EU,2016,44.9,2.5
+Slovakia,SVK,EU,2017,44.3,2.3
+Slovakia,SVK,EU,2018,42.5,2
+Slovenia,SVN,EU,2007,37.5,4
+Slovenia,SVN,EU,2008,37.1,4
+Slovenia,SVN,EU,2009,36.3,3.6
+Slovenia,SVN,EU,2010,36,3.4
+Slovenia,SVN,EU,2011,35.5,3.1
+Slovenia,SVN,EU,2012,34,2.8
+Slovenia,SVN,EU,2013,32.3,2.5
+Slovenia,SVN,EU,2014,32.6,2.4
+Slovenia,SVN,EU,2015,31.5,2.8
+Slovenia,SVN,EU,2016,33.9,2.5
+Slovenia,SVN,EU,2017,32.4,2.3
+Slovenia,SVN,EU,2018,30.3,2
+Solomon Islands,SLB,OC,2007,92,8.5
+Solomon Islands,SLB,OC,2008,92.4,8.7
+Solomon Islands,SLB,OC,2009,89.6,8
+Solomon Islands,SLB,OC,2010,88.6,8.3
+Solomon Islands,SLB,OC,2011,85.9,7.9
+Solomon Islands,SLB,OC,2012,85.6,7.6
+Solomon Islands,SLB,OC,2013,85.2,7.7
+Solomon Islands,SLB,OC,2014,86.4,8.2
+Solomon Islands,SLB,OC,2015,85.9,8.5
+Solomon Islands,SLB,OC,2016,85.3,8.2
+Solomon Islands,SLB,OC,2017,84.8,8.5
+Solomon Islands,SLB,OC,2018,83.1,8
+Somalia,SOM,AF,2007,111.1,9.2
+Somalia,SOM,AF,2008,114.2,9.8
+Somalia,SOM,AF,2009,114.7,9.8
+Somalia,SOM,AF,2010,114.3,9.6
+Somalia,SOM,AF,2011,113.4,9.7
+Somalia,SOM,AF,2012,114.9,9.8
+Somalia,SOM,AF,2013,113.9,9.5
+Somalia,SOM,AF,2014,112.6,9.5
+Somalia,SOM,AF,2015,114,9.6
+Somalia,SOM,AF,2016,114,9.7
+Somalia,SOM,AF,2017,113.4,10
+Somalia,SOM,AF,2018,113.2,10
+South Africa,ZAF,AF,2007,57.4,8.2
+South Africa,ZAF,AF,2008,62.7,8.4
+South Africa,ZAF,AF,2009,67.4,8.4
+South Africa,ZAF,AF,2010,67.9,8.4
+South Africa,ZAF,AF,2011,67.6,8.4
+South Africa,ZAF,AF,2012,66.8,8.1
+South Africa,ZAF,AF,2013,67.6,7.8
+South Africa,ZAF,AF,2014,66.6,7.4
+South Africa,ZAF,AF,2015,67,7
+South Africa,ZAF,AF,2016,69.9,7.3
+South Africa,ZAF,AF,2017,72.3,7.2
+South Africa,ZAF,AF,2018,72.9,6.9
+South Korea,KOR,AS,2007,39.7,4
+South Korea,KOR,AS,2008,40.6,4
+South Korea,KOR,AS,2009,41.6,4
+South Korea,KOR,AS,2010,41.3,3.6
+South Korea,KOR,AS,2011,38.8,3.3
+South Korea,KOR,AS,2012,37.6,3
+South Korea,KOR,AS,2013,35.4,3
+South Korea,KOR,AS,2014,36.4,2.9
+South Korea,KOR,AS,2015,36.3,2.8
+South Korea,KOR,AS,2016,36.1,3.3
+South Korea,KOR,AS,2017,38.1,3.1
+South Korea,KOR,AS,2018,35.7,2.6
+Spain,ESP,EU,2007,39.2,3.7
+Spain,ESP,EU,2008,41.6,3.9
+Spain,ESP,EU,2009,43.3,3.9
+Spain,ESP,EU,2010,43.5,3.7
+Spain,ESP,EU,2011,43.1,3.3
+Spain,ESP,EU,2012,42.8,3.1
+Spain,ESP,EU,2013,44.4,2.8
+Spain,ESP,EU,2014,43.1,3
+Spain,ESP,EU,2015,40.9,2.5
+Spain,ESP,EU,2016,39.8,2.2
+Spain,ESP,EU,2017,37.9,2
+Spain,ESP,EU,2018,41.4,1.7
+Sri Lanka,LKA,AS,2007,93.1,7
+Sri Lanka,LKA,AS,2008,95.6,7
+Sri Lanka,LKA,AS,2009,96.7,7.5
+Sri Lanka,LKA,AS,2010,95.7,7.3
+Sri Lanka,LKA,AS,2011,93.1,7
+Sri Lanka,LKA,AS,2012,92.2,7.1
+Sri Lanka,LKA,AS,2013,92.9,6.8
+Sri Lanka,LKA,AS,2014,92.6,6.5
+Sri Lanka,LKA,AS,2015,90.7,6
+Sri Lanka,LKA,AS,2016,87.7,5.7
+Sri Lanka,LKA,AS,2017,86.6,6.2
+Sri Lanka,LKA,AS,2018,84.9,6.7
+Sudan,SDN,AF,2007,113.7,9.2
+Sudan,SDN,AF,2008,113,9
+Sudan,SDN,AF,2009,112.4,9
+Sudan,SDN,AF,2010,111.8,8.8
+Sudan,SDN,AF,2011,108.7,8.5
+Sudan,SDN,AF,2012,109.4,8.4
+Sudan,SDN,AF,2013,111,8.8
+Sudan,SDN,AF,2014,110.1,8.6
+Sudan,SDN,AF,2015,110.8,8.7
+Sudan,SDN,AF,2016,111.5,9
+Sudan,SDN,AF,2017,110.6,9.3
+Sudan,SDN,AF,2018,108.7,9.3
+Suriname,SUR,SA,2007,73.9,7.1
+Suriname,SUR,SA,2008,72.4,6.5
+Suriname,SUR,SA,2009,73.2,6.2
+Suriname,SUR,SA,2010,72.5,6
+Suriname,SUR,SA,2011,71.1,6
+Suriname,SUR,SA,2012,71.2,5.8
+Suriname,SUR,SA,2013,71.2,5.7
+Suriname,SUR,SA,2014,70.6,5.6
+Suriname,SUR,SA,2015,68.4,5.3
+Suriname,SUR,SA,2016,66.7,5
+Suriname,SUR,SA,2017,65.9,5.3
+Suriname,SUR,SA,2018,64,5.4
+Swaziland,SWZ,AF,2007,81.3,8.7
+Swaziland,SWZ,AF,2008,80,8.8
+Swaziland,SWZ,AF,2009,82.4,9.2
+Swaziland,SWZ,AF,2010,82.8,9.1
+Swaziland,SWZ,AF,2011,82.5,9.2
+Swaziland,SWZ,AF,2012,83.5,8.9
+Swaziland,SWZ,AF,2013,85.6,9
+Swaziland,SWZ,AF,2014,85.8,8.7
+Swaziland,SWZ,AF,2015,86.2,8.5
+Swaziland,SWZ,AF,2016,87.6,8.9
+Swaziland,SWZ,AF,2017,88.8,9.4
+Swaziland,SWZ,AF,2018,87.5,9.1
+Sweden,SWE,EU,2007,19.3,3.2
+Sweden,SWE,EU,2008,19.8,3.2
+Sweden,SWE,EU,2009,20.6,2.8
+Sweden,SWE,EU,2010,20.9,2.7
+Sweden,SWE,EU,2011,22.8,2.8
+Sweden,SWE,EU,2012,21.3,2.6
+Sweden,SWE,EU,2013,19.7,2.5
+Sweden,SWE,EU,2014,21.4,2.8
+Sweden,SWE,EU,2015,20.2,2.5
+Sweden,SWE,EU,2016,22.6,2.2
+Sweden,SWE,EU,2017,22.1,2
+Sweden,SWE,EU,2018,20.8,1.7
+Switzerland,CHE,EU,2007,20.2,3.3
+Switzerland,CHE,EU,2008,20.3,2.9
+Switzerland,CHE,EU,2009,21.2,2.6
+Switzerland,CHE,EU,2010,21.8,2.4
+Switzerland,CHE,EU,2011,23.2,2.1
+Switzerland,CHE,EU,2012,23.3,2.4
+Switzerland,CHE,EU,2013,21.5,2.1
+Switzerland,CHE,EU,2014,23.3,2.4
+Switzerland,CHE,EU,2015,22.3,1.9
+Switzerland,CHE,EU,2016,21.8,1.7
+Switzerland,CHE,EU,2017,21.1,1.5
+Switzerland,CHE,EU,2018,19.2,1.2
+Syria,SYR,AS,2007,88.6,6.5
+Syria,SYR,AS,2008,90.1,6.5
+Syria,SYR,AS,2009,89.8,6.1
+Syria,SYR,AS,2010,87.9,5.9
+Syria,SYR,AS,2011,85.9,5.6
+Syria,SYR,AS,2012,94.5,5.5
+Syria,SYR,AS,2013,97.4,5.6
+Syria,SYR,AS,2014,101.6,6
+Syria,SYR,AS,2015,107.8,8.1
+Syria,SYR,AS,2016,110.8,8.4
+Syria,SYR,AS,2017,110.6,8.2
+Syria,SYR,AS,2018,111.4,8.2
+Tajikistan,TJK,AS,2007,88.7,7.7
+Tajikistan,TJK,AS,2008,88.9,7.9
+Tajikistan,TJK,AS,2009,90.3,8.2
+Tajikistan,TJK,AS,2010,89.2,8
+Tajikistan,TJK,AS,2011,88.3,7.7
+Tajikistan,TJK,AS,2012,85.7,7.3
+Tajikistan,TJK,AS,2013,85.2,7.4
+Tajikistan,TJK,AS,2014,84.6,7.5
+Tajikistan,TJK,AS,2015,83.4,7.8
+Tajikistan,TJK,AS,2016,83.8,8.1
+Tajikistan,TJK,AS,2017,81.8,7.9
+Tajikistan,TJK,AS,2018,79.5,7.6
+Tanzania,TZA,AF,2007,79.3,7.4
+Tanzania,TZA,AF,2008,79.1,7.4
+Tanzania,TZA,AF,2009,81.1,8
+Tanzania,TZA,AF,2010,81.2,8.2
+Tanzania,TZA,AF,2011,81.3,8.1
+Tanzania,TZA,AF,2012,80.4,8.2
+Tanzania,TZA,AF,2013,81.1,8.6
+Tanzania,TZA,AF,2014,80.8,8.6
+Tanzania,TZA,AF,2015,80.8,8.8
+Tanzania,TZA,AF,2016,81.8,8.9
+Tanzania,TZA,AF,2017,80.3,8.7
+Tanzania,TZA,AF,2018,79.4,8.3
+Thailand,THA,AS,2007,76,7
+Thailand,THA,AS,2008,75.6,6.8
+Thailand,THA,AS,2009,79.2,6.9
+Thailand,THA,AS,2010,78.8,6.7
+Thailand,THA,AS,2011,78.3,6.4
+Thailand,THA,AS,2012,77,8.2
+Thailand,THA,AS,2013,75.1,7.9
+Thailand,THA,AS,2014,77,7.6
+Thailand,THA,AS,2015,79.1,6.9
+Thailand,THA,AS,2016,78.8,6.6
+Thailand,THA,AS,2017,76.2,6.4
+Thailand,THA,AS,2018,75,6.5
+Togo,TGO,AF,2007,86.6,7.5
+Togo,TGO,AF,2008,86.8,7.7
+Togo,TGO,AF,2009,87.2,7.9
+Togo,TGO,AF,2010,88.1,8
+Togo,TGO,AF,2011,89.4,8.1
+Togo,TGO,AF,2012,87.5,8.1
+Togo,TGO,AF,2013,87.8,8.2
+Togo,TGO,AF,2014,87.8,7.9
+Togo,TGO,AF,2015,86.8,8
+Togo,TGO,AF,2016,85.8,8
+Togo,TGO,AF,2017,83.9,7.8
+Togo,TGO,AF,2018,85.2,7.5
+Trinidad and Tobago,TTO,NA,2007,67.6,5.9
+Trinidad and Tobago,TTO,NA,2008,67,5.5
+Trinidad and Tobago,TTO,NA,2009,66.7,5.8
+Trinidad and Tobago,TTO,NA,2010,66.1,5.6
+Trinidad and Tobago,TTO,NA,2011,63.7,5.3
+Trinidad and Tobago,TTO,NA,2012,64.4,5.5
+Trinidad and Tobago,TTO,NA,2013,62.6,5.3
+Trinidad and Tobago,TTO,NA,2014,61.3,5.2
+Trinidad and Tobago,TTO,NA,2015,58.7,5
+Trinidad and Tobago,TTO,NA,2016,57.8,4.7
+Trinidad and Tobago,TTO,NA,2017,56.7,4.5
+Trinidad and Tobago,TTO,NA,2018,54.6,4.2
+Tunisia,TUN,AF,2007,65.6,5.6
+Tunisia,TUN,AF,2008,65.6,5.6
+Tunisia,TUN,AF,2009,67.6,5.9
+Tunisia,TUN,AF,2010,67.5,5.7
+Tunisia,TUN,AF,2011,70.1,5.5
+Tunisia,TUN,AF,2012,74.2,5.2
+Tunisia,TUN,AF,2013,76.5,4.9
+Tunisia,TUN,AF,2014,77.5,4.7
+Tunisia,TUN,AF,2015,75.7,4.7
+Tunisia,TUN,AF,2016,74.6,4.4
+Tunisia,TUN,AF,2017,74.2,4.2
+Tunisia,TUN,AF,2018,72.1,3.9
+Turkey,TUR,EU,2007,74.9,6.9
+Turkey,TUR,EU,2008,75.4,6.7
+Turkey,TUR,EU,2009,78.2,6.8
+Turkey,TUR,EU,2010,77.1,6.3
+Turkey,TUR,EU,2011,74.9,5.9
+Turkey,TUR,EU,2012,76.6,6
+Turkey,TUR,EU,2013,75.9,5.7
+Turkey,TUR,EU,2014,74.1,5.4
+Turkey,TUR,EU,2015,74.6,5.5
+Turkey,TUR,EU,2016,77.3,5.1
+Turkey,TUR,EU,2017,80.8,4.9
+Turkey,TUR,EU,2018,82.2,5.2
+Turkmenistan,TKM,AS,2007,87.5,7
+Turkmenistan,TKM,AS,2008,86.2,7
+Turkmenistan,TKM,AS,2009,84.3,7
+Turkmenistan,TKM,AS,2010,82.5,6.8
+Turkmenistan,TKM,AS,2011,79.7,6.5
+Turkmenistan,TKM,AS,2012,77.4,6.2
+Turkmenistan,TKM,AS,2013,76.7,5.9
+Turkmenistan,TKM,AS,2014,78.2,6
+Turkmenistan,TKM,AS,2015,77.4,5.7
+Turkmenistan,TKM,AS,2016,76,5.6
+Turkmenistan,TKM,AS,2017,74.4,5.4
+Turkmenistan,TKM,AS,2018,72.6,5.4
+Uganda,UGA,AF,2007,96.4,8.1
+Uganda,UGA,AF,2008,96.1,8.7
+Uganda,UGA,AF,2009,96.9,8.7
+Uganda,UGA,AF,2010,97.5,8.7
+Uganda,UGA,AF,2011,96.3,8.8
+Uganda,UGA,AF,2012,96.5,8.8
+Uganda,UGA,AF,2013,96.6,9.1
+Uganda,UGA,AF,2014,96,8.7
+Uganda,UGA,AF,2015,97,8.9
+Uganda,UGA,AF,2016,97.7,8.7
+Uganda,UGA,AF,2017,96,9
+Uganda,UGA,AF,2018,95.1,8.9
+Ukraine,UKR,EU,2007,71.4,6.5
+Ukraine,UKR,EU,2008,70.8,6.5
+Ukraine,UKR,EU,2009,69.7,6.1
+Ukraine,UKR,EU,2010,69.5,5.6
+Ukraine,UKR,EU,2011,69,5.3
+Ukraine,UKR,EU,2012,67.2,5
+Ukraine,UKR,EU,2013,65.9,4.7
+Ukraine,UKR,EU,2014,67.2,4.5
+Ukraine,UKR,EU,2015,76.3,4.5
+Ukraine,UKR,EU,2016,75.5,4.4
+Ukraine,UKR,EU,2017,74,4.2
+Ukraine,UKR,EU,2018,72.6,3.9
+United Arab Emirates,ARE,AS,2007,51.6,5.6
+United Arab Emirates,ARE,AS,2008,51.2,5
+United Arab Emirates,ARE,AS,2009,51.8,4.6
+United Arab Emirates,ARE,AS,2010,52.4,4.4
+United Arab Emirates,ARE,AS,2011,50.4,4.1
+United Arab Emirates,ARE,AS,2012,48.9,4.1
+United Arab Emirates,ARE,AS,2013,47.3,3.9
+United Arab Emirates,ARE,AS,2014,47.6,4.2
+United Arab Emirates,ARE,AS,2015,46.2,4.5
+United Arab Emirates,ARE,AS,2016,44.5,4.2
+United Arab Emirates,ARE,AS,2017,43.7,4
+United Arab Emirates,ARE,AS,2018,42.8,3.7
+United Kingdom,GBR,EU,2007,34.1,3.4
+United Kingdom,GBR,EU,2008,32.9,3
+United Kingdom,GBR,EU,2009,33.6,3.2
+United Kingdom,GBR,EU,2010,33.9,3.2
+United Kingdom,GBR,EU,2011,34.1,2.9
+United Kingdom,GBR,EU,2012,35.3,2.8
+United Kingdom,GBR,EU,2013,33.2,2.5
+United Kingdom,GBR,EU,2014,34.3,2.8
+United Kingdom,GBR,EU,2015,33.4,2.6
+United Kingdom,GBR,EU,2016,32.4,2.6
+United Kingdom,GBR,EU,2017,33.2,2.4
+United Kingdom,GBR,EU,2018,34.3,2.1
+Uruguay,URY,SA,2007,40.9,5.1
+Uruguay,URY,SA,2008,41.4,5.1
+Uruguay,URY,SA,2009,41.2,4.7
+Uruguay,URY,SA,2010,41.3,4.3
+Uruguay,URY,SA,2011,40.4,3.9
+Uruguay,URY,SA,2012,40.5,4.1
+Uruguay,URY,SA,2013,38.4,3.8
+Uruguay,URY,SA,2014,37.9,3.8
+Uruguay,URY,SA,2015,36.4,3.5
+Uruguay,URY,SA,2016,36.2,4
+Uruguay,URY,SA,2017,36.8,3.8
+Uruguay,URY,SA,2018,35.4,3.5
+USA,USA,NA,2007,33.6,3.5
+USA,USA,NA,2008,32.8,3.5
+USA,USA,NA,2009,34,3.1
+USA,USA,NA,2010,35.3,3.1
+USA,USA,NA,2011,34.8,3.4
+USA,USA,NA,2012,34.8,3.3
+USA,USA,NA,2013,33.5,3
+USA,USA,NA,2014,35.4,3.3
+USA,USA,NA,2015,35.4,3
+USA,USA,NA,2016,34,3
+USA,USA,NA,2017,35.6,2.8
+USA,USA,NA,2018,37.7,3.3
+Uzbekistan,UZB,AS,2007,93.5,7.7
+Uzbekistan,UZB,AS,2008,93.4,7.7
+Uzbekistan,UZB,AS,2009,92.8,7.9
+Uzbekistan,UZB,AS,2010,90.5,7.7
+Uzbekistan,UZB,AS,2011,88.3,7.3
+Uzbekistan,UZB,AS,2012,87.5,7
+Uzbekistan,UZB,AS,2013,86.9,6.7
+Uzbekistan,UZB,AS,2014,86.3,6.4
+Uzbekistan,UZB,AS,2015,85.3,6.1
+Uzbekistan,UZB,AS,2016,83.5,5.8
+Uzbekistan,UZB,AS,2017,81.5,5.6
+Uzbekistan,UZB,AS,2018,79.1,5.4
+Venezuela,VEN,SA,2007,79.8,6.9
+Venezuela,VEN,SA,2008,77.9,6.5
+Venezuela,VEN,SA,2009,79.5,6.8
+Venezuela,VEN,SA,2010,78.7,6.3
+Venezuela,VEN,SA,2011,78.2,6
+Venezuela,VEN,SA,2012,77.3,5.7
+Venezuela,VEN,SA,2013,75.3,5.4
+Venezuela,VEN,SA,2014,76.7,5.4
+Venezuela,VEN,SA,2015,78.7,5.1
+Venezuela,VEN,SA,2016,81.6,5.2
+Venezuela,VEN,SA,2017,82.9,5.6
+Venezuela,VEN,SA,2018,86.2,5.7
+Vietnam,VNM,AS,2007,77.8,6.5
+Vietnam,VNM,AS,2008,74.6,6.6
+Vietnam,VNM,AS,2009,76.9,6.8
+Vietnam,VNM,AS,2010,76.6,6.9
+Vietnam,VNM,AS,2011,76.1,6.7
+Vietnam,VNM,AS,2012,74,6.1
+Vietnam,VNM,AS,2013,73.1,5.9
+Vietnam,VNM,AS,2014,72.7,6.2
+Vietnam,VNM,AS,2015,72.4,6.1
+Vietnam,VNM,AS,2016,70.7,5.8
+Vietnam,VNM,AS,2017,70.2,6.1
+Vietnam,VNM,AS,2018,68.4,5.8
+Yemen,YEM,AS,2007,93.2,8
+Yemen,YEM,AS,2008,95.4,8.6
+Yemen,YEM,AS,2009,98.1,8.8
+Yemen,YEM,AS,2010,100,8.6
+Yemen,YEM,AS,2011,100.3,8.7
+Yemen,YEM,AS,2012,104.8,8.8
+Yemen,YEM,AS,2013,107,9.3
+Yemen,YEM,AS,2014,105.4,9.1
+Yemen,YEM,AS,2015,108.2,9.2
+Yemen,YEM,AS,2016,111.5,9.5
+Yemen,YEM,AS,2017,111.1,9.3
+Yemen,YEM,AS,2018,112.7,9.6
+Zambia,ZMB,AF,2007,80.6,9.1
+Zambia,ZMB,AF,2008,81.6,8.8
+Zambia,ZMB,AF,2009,84.2,9
+Zambia,ZMB,AF,2010,83.9,9
+Zambia,ZMB,AF,2011,83.8,8.9
+Zambia,ZMB,AF,2012,85.9,9.1
+Zambia,ZMB,AF,2013,86.6,9.3
+Zambia,ZMB,AF,2014,86.2,9.3
+Zambia,ZMB,AF,2015,85.1,9.4
+Zambia,ZMB,AF,2016,86.3,9.5
+Zambia,ZMB,AF,2017,87.8,9.5
+Zambia,ZMB,AF,2018,87.2,9.5
+Zimbabwe,ZWE,AF,2007,110.1,9.7
+Zimbabwe,ZWE,AF,2008,112.5,9.7
+Zimbabwe,ZWE,AF,2009,114,9.8
+Zimbabwe,ZWE,AF,2010,110.2,9.4
+Zimbabwe,ZWE,AF,2011,107.9,9.3
+Zimbabwe,ZWE,AF,2012,106.3,9
+Zimbabwe,ZWE,AF,2013,105.2,9.2
+Zimbabwe,ZWE,AF,2014,102.8,8.9
+Zimbabwe,ZWE,AF,2015,100,8.7
+Zimbabwe,ZWE,AF,2016,100.5,8.6
+Zimbabwe,ZWE,AF,2017,101.6,9.1
+Zimbabwe,ZWE,AF,2018,102.3,8.9
