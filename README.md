@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to investigate the relationship between genetic variations and PTSD prevalence, as well as explore the impact of healthcare costs and ethnic fractionalization on PTSD. The analysis utilizes multiple datasets and employs data cleaning, transformation, and visualization techniques to derive insights.
+This project aims to investigate the relationship between genetic variations and PTSD prevalence, as well as explore the impact of healthcare costs and ethnic fractionalization on PTSD. The analysis utilizes multiple datasets and employs data cleaning, transformation, and visualization techniques to derive insights. The ultimate aim of this project is to create a descriptive and predictive model for the development of PTSD. For a full project presentation please visit: https://docs.google.com/presentation/d/e/2PACX-1vQ2gcAm9AQUy83cOErSa0kt4HMHL2HEyXR7kCngY5GE3dee-vh5tTXXAwP0KqZ5GeTLPGLBymkkk_Yu/pub?start=false&loop=false&delayms=3000
 
 ## Project Proposal / Research Question
 
@@ -24,8 +24,6 @@ To contextualize the findings, heatmaps were generated to understand the relatio
 ## Key Insights
 
 The analysis confirmed the association between specific SNPs in the FKBP5 gene and PTSD prevalence in US service members. The correlation between healthcare costs and PTSD prevalence is 0.41. Given that higher values in the healthcare price index indicate more expensive healthcare, this suggests a slight negative correlation between the accessibility of healthcare and PTSD prevalence. More accessible (less expensive) healthcare tends to correlate with lower PTSD rates. The inclusion of the HIEF data was to investigate if countries with high PTSD rates but low trauma exposure rates, and high homogeneity, might indicate a genetic factor at play. The correlation between ethnic fractionalization and PTSD prevalence is -0.17. Lower values for the HIEF indicate more homogeneous countries, suggesting that more ethnically diverse countries tend to have lower PTSD prevalence. Analysis of genotype frequencies between control and PTSD groups generally showed a mutation frequency difference of +/- 1-7%. Notably, one SNP showed a 44% prevalence in the PTSD group, while 0% of the control group had this mutation, indicating a significant variation that warrants further investigation. PTSD prevalence varies significantly across different countries, with certain regions exhibiting notably higher rates of trauma exposure and PTSD.
-
-![alt text](..\images\image.png)
 
 
 ## Specific Country Insights
