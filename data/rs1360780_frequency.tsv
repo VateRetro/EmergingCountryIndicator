@@ -1,0 +1,83 @@
+#URL	https://www.ncbi.nlm.nih.gov/snp/rs1360780/download/frequency
+#NCBI Reference SNP (rs) Report ALPHA	rs1360780
+#Current Build	156
+#Released	October 17, 2022
+#Organism	Homo sapiens
+#Position	chr6:35639794 (GRCh38.p14)
+#Alleles	T>A / T>C
+#Variation Type	SNV (Single Nucleotide Variation)
+#Publications	186 citations
+#
+#Frequency Data Table
+#################
+#Study	Population	Group	Samplesize	Ref Allele	Alt Allele	BioProject ID	BioSample ID
+TopMed	Global	Study-wide	264690	T=0.340455	C=0.659545	PRJNA400167	
+gnomAD - Genomes	Global	Study-wide	140068	T=0.329333	C=0.670667	PRJNA398795	SAMN07488253
+gnomAD - Genomes	European	Sub	75870	T=0.28781	C=0.71219		SAMN10181265
+gnomAD - Genomes	African	Sub	41958	T=0.41287	C=0.58713		SAMN07488254
+gnomAD - Genomes	American	Sub	13640	T=0.32771	C=0.67229		SAMN07488255
+gnomAD - Genomes	Ashkenazi Jewish	Sub	3320	T=0.2726	C=0.7274		SAMN07488252
+gnomAD - Genomes	East Asian	Sub	3130	T=0.2732	C=0.7268		SAMN07488251
+gnomAD - Genomes	Other	Sub	2150	T=0.3442	C=0.6558		SAMN07488248
+The PAGE Study	Global	Study-wide	78636	T=0.35942	C=0.64058	PRJNA168052	SAMN10868975
+The PAGE Study	AfricanAmerican	Sub	32506	T=0.41254	C=0.58746		SAMN10868721
+The PAGE Study	Mexican	Sub	10786	T=0.31281	C=0.68719		SAMN10868735
+The PAGE Study	Asian	Sub	8316	T=0.2468	C=0.7532		SAMN10868722
+The PAGE Study	PuertoRican	Sub	7914	T=0.3374	C=0.6626		SAMN10868968
+The PAGE Study	NativeHawaiian	Sub	4534	T=0.3994	C=0.6006		SAMN10868777
+The PAGE Study	Cuban	Sub	4222	T=0.3292	C=0.6708		SAMN10868733
+The PAGE Study	Dominican	Sub	3826	T=0.3573	C=0.6427		SAMN10868734
+The PAGE Study	CentralAmerican	Sub	2440	T=0.3689	C=0.6311		SAMN10868729
+The PAGE Study	SouthAmerican	Sub	1976	T=0.3153	C=0.6847		SAMN10868969
+The PAGE Study	NativeAmerican	Sub	1260	T=0.3048	C=0.6952		SAMN10868739
+The PAGE Study	SouthAsian	Sub	856	T=0.329	C=0.671		SAMN10868970
+Allele Frequency Aggregator	Total	Global	72060	T=0.31417	A=0.00000, C=0.68583	PRJNA507278	SAMN10492705
+Allele Frequency Aggregator	European	Sub	54274	T=0.29887	A=0.00000, C=0.70113		SAMN10492695
+Allele Frequency Aggregator	African	Sub	7116	T=0.4105	A=0.0000, C=0.5895		SAMN10492703
+Allele Frequency Aggregator	South Asian	Sub	4906	T=0.3329	A=0.0000, C=0.6671		SAMN10492702
+Allele Frequency Aggregator	Latin American 2	Sub	3240	T=0.3185	A=0.0000, C=0.6815		SAMN10492700
+Allele Frequency Aggregator	Other	Sub	1974	T=0.3283	A=0.0000, C=0.6717		SAMN11605645
+Allele Frequency Aggregator	Latin American 1	Sub	330	T=0.367	A=0.000, C=0.633		SAMN10492699
+Allele Frequency Aggregator	Asian	Sub	220	T=0.286	A=0.000, C=0.714		SAMN10492704
+14KJPN	JAPANESE	Study-wide	28258	T=0.22443	C=0.77557	PRJNA678214	SAMN16789458
+8.3KJPN	JAPANESE	Study-wide	16760	T=0.22721	C=0.77279	PRJNA678214	SAMN16789458
+1000Genomes_30x	Global	Study-wide	6404	T=0.3293	C=0.6707	PRJEB31736	SAMN07490465
+1000Genomes_30x	African	Sub	1786	T=0.4261	C=0.5739		SAMN07486022
+1000Genomes_30x	Europe	Sub	1266	T=0.3057	C=0.6943		SAMN07488239
+1000Genomes_30x	South Asian	Sub	1202	T=0.3236	C=0.6764		SAMN07486027
+1000Genomes_30x	East Asian	Sub	1170	T=0.2547	C=0.7453		SAMN07486024
+1000Genomes_30x	American	Sub	980	T=0.280	C=0.720		SAMN07488242
+1000Genomes	Global	Study-wide	5008	T=0.3273	C=0.6727	PRJEB6930	SAMN07490465
+1000Genomes	African	Sub	1322	T=0.4213	C=0.5787		SAMN07486022
+1000Genomes	East Asian	Sub	1008	T=0.2460	C=0.7540		SAMN07486024
+1000Genomes	Europe	Sub	1006	T=0.3062	C=0.6938		SAMN07488239
+1000Genomes	South Asian	Sub	978	T=0.333	C=0.667		SAMN07486027
+1000Genomes	American	Sub	694	T=0.288	C=0.712		SAMN07488242
+Genetic variation in the Estonian population	Estonian	Study-wide	4480	T=0.2612	C=0.7388	PRJNA489787	
+The Avon Longitudinal Study of Parents and Children	PARENT AND CHILD COHORT	Study-wide	3854	T=0.3036	C=0.6964	PRJEB7217	
+UK 10K study - Twins	TWIN COHORT	Study-wide	3708	T=0.3080	C=0.6920	PRJEB7218	
+KOREAN population from KRGDB	KOREAN	Study-wide	2930	T=0.2392	C=0.7608	PRJNA589833	
+HGDP-CEPH-db Supplement 1	Global	Study-wide	2082	T=0.3314	C=0.6686	PRJEB6463	
+HGDP-CEPH-db Supplement 1	Est_Asia	Sub	470	T=0.266	C=0.734		SAMN13169023
+HGDP-CEPH-db Supplement 1	Central_South_Asia	Sub	414	T=0.360	C=0.640		SAMN13169022
+HGDP-CEPH-db Supplement 1	Middle_Est	Sub	348	T=0.362	C=0.638		SAMN13169025
+HGDP-CEPH-db Supplement 1	Europe	Sub	320	T=0.331	C=0.669		SAMN13169024
+HGDP-CEPH-db Supplement 1	Africa	Sub	242	T=0.434	C=0.566		SAMN13169020
+HGDP-CEPH-db Supplement 1	America	Sub	216	T=0.204	C=0.796		SAMN13169021
+HGDP-CEPH-db Supplement 1	Oceania	Sub	72	T=0.49	C=0.51		SAMN13169026
+HapMap	Global	Study-wide	1880	T=0.3340	C=0.6660	PRJNA60817	SAMN10820145
+HapMap	American	Sub	764	T=0.309	C=0.691		SAMN10821182
+HapMap	African	Sub	692	T=0.399	C=0.601		SAMN10821181
+HapMap	Asian	Sub	248	T=0.218	C=0.782		SAMN10821184
+HapMap	Europe	Sub	176	T=0.352	C=0.648		SAMN10821183
+Korean Genome Project	KOREAN	Study-wide	1832	T=0.2369	C=0.7631	PRJNA609628	
+Genome of the Netherlands Release 5	Genome of the Netherlands	Study-wide	998	T=0.320	C=0.680	PRJEB5829	SAMN13000132
+CNV burdens in cranial meningiomas	Global	Study-wide	786	T=0.261	C=0.739	PRJEB37584	SAMN15458720
+CNV burdens in cranial meningiomas	CRM	Sub	786	T=0.261	C=0.739		SAMN15458720
+Northern Sweden	ACPOP	Study-wide	600	T=0.283	C=0.717	PPRJNA503394	SAMN10359154
+SGDP_PRJ	Global	Study-wide	484	T=0.211	C=0.789	PRJNA586841	
+Qatari	Global	Study-wide	216	T=0.347	C=0.653	PRJNA288297	SAMN13019808
+A Vietnamese Genetic Variation Database	Global	Study-wide	216	T=0.329	C=0.671	PRJNA515199	SAMN10744005
+Siberian	Global	Study-wide	54	T=0.24	C=0.76	PRJNA267856	SAMN13113809
+The Danish reference pan genome	Danish	Study-wide	40	T=0.25	C=0.75	PRJEB7725	SAMN13003120
+Ancient Sardinia genome-wide 1240k capture data generation and analysis	Global	Study-wide	36	T=0.22	C=0.78	PRJEB36033	SAMN15458807

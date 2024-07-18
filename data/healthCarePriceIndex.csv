@@ -1,0 +1,168 @@
+Country,Code,ContinentCode,Year,Healthcare price index world average = 100
+Albania,ALB,EU,2017,24.17
+Algeria,DZA,AF,2017,33.2
+Angola,AGO,AF,2017,81.24
+Antigua and Barbuda,ATG,NA,2017,95.32
+Argentina,ARG,SA,2017,67.49
+Armenia,ARM,AS,2017,33.24
+Aruba,ABW,NA,2017,106.78
+Australia,AUS,OC,2017,163.44
+Austria,AUT,EU,2017,136.98
+Azerbaijan,AZE,AS,2017,26.68
+Bahamas,BHS,NA,2017,170.78
+Bahrain,BHR,AS,2017,78.14
+Bangladesh,BGD,AS,2017,33.09
+Barbados,BRB,NA,2017,146.66
+Belarus,BLR,EU,2017,26.83
+Belgium,BEL,EU,2017,128.34
+Belize,BLZ,NA,2017,76.59
+Benin,BEN,AF,2017,42.63
+Bermuda,BMU,NA,2017,228.75
+Bhutan,BTN,AS,2017,18.71
+Bolivia,BOL,SA,2017,48.48
+Bosnia and Herzegovina,BIH,EU,2017,47.91
+Botswana,BWA,AF,2017,48.25
+Brazil,BRA,SA,2017,108.45
+Brunei,BRN,AS,2017,68.67
+Bulgaria,BGR,EU,2017,32.03
+Burkina Faso,BFA,AF,2017,38.07
+Burma (Myanmar),MMR,AS,2017,22.18
+Burundi,BDI,AF,2017,43.18
+Cambodia,KHM,AS,2017,30.95
+Cameroon,CMR,AF,2017,56.64
+Canada,CAN,NA,2017,127.09
+Cape Verde,CPV,AF,2017,46.67
+Central African Republic,CAF,AF,2017,49.57
+Chad,TCD,AF,2017,51.53
+Chile,CHL,SA,2017,94.72
+China,CHN,AS,2017,61.64
+Colombia,COL,SA,2017,45.51
+Comoros,COM,AF,2017,45.04
+Costa Rica,CRC,NA,2017,131.92
+Croatia,HRV,EU,2017,58.08
+Cyprus,CYP,EU,2017,109.91
+Czechia,CZE,EU,2017,46.54
+Democratic Republic of the Congo,COD,AF,2017,45.22
+Denmark,DNK,EU,2017,147.83
+Djibouti,DJI,AF,2017,78.98
+Dominica,DMA,NA,2017,74.92
+Dominican Republic,DOM,NA,2017,56.62
+Ecuador,ECU,SA,2017,67.88
+Egypt,EGY,AF,2017,18.61
+El Salvador,SLV,NA,2017,59.68
+Equatorial Guinea,GNQ,AF,2017,57.46
+Estonia,EST,EU,2017,71.8
+Ethiopia,ETH,AF,2017,29.84
+Fiji,FJI,OC,2017,49.03
+Finland,FIN,EU,2017,150.05
+France,FRA,EU,2017,109.69
+Gabon,GAB,AF,2017,64.92
+Gambia,GMB,AF,2017,35.37
+Georgia,GEO,AS,2017,32.97
+Germany,DEU,EU,2017,112.67
+Ghana,GHA,AF,2017,45.36
+Greece,GRC,EU,2017,95.17
+Grenada,GRD,NA,2017,72.22
+Guinea,GIN,AF,2017,47.21
+Guinea-Bissau,GNB,AF,2017,38.57
+Guyana,GUY,SA,2017,57.21
+Haiti,HTI,NA,2017,55.23
+Honduras,HND,NA,2017,79.36
+Hong Kong,HKG,AS,2017,138.09
+Hungary,HUN,EU,2017,52.59
+Iceland,ISL,EU,2017,228.54
+India,IND,AS,2017,24.62
+Indonesia,IDN,AS,2017,34.05
+Iran,IRN,AS,2017,35.59
+Iraq,IRQ,AS,2017,60.89
+Ireland,IRL,EU,2017,177.7
+Israel,ISR,AS,2017,186.3
+Italy,ITA,EU,2017,135.99
+Ivory Coast,CIV,AF,2017,62.72
+Jamaica,JAM,NA,2017,46.67
+Japan,JPN,AS,2017,122.84
+Jordan,JOR,AS,2017,49.84
+Kazakhstan,KAZ,AS,2017,30.55
+Kenya,KEN,AF,2017,41.15
+Kuwait,KWT,AS,2017,97.43
+Kyrgyzstan,KGZ,AS,2017,29.13
+Laos,LAO,AS,2017,22.3
+Latvia,LVA,EU,2017,51.26
+Lesotho,LSO,AF,2017,58.73
+Liberia,LBR,AF,2017,39.82
+Lithuania,LTU,EU,2017,49.17
+Luxembourg,LUX,EU,2017,164.28
+Madagascar,MDG,AF,2017,35.82
+Malawi,MWI,AF,2017,44.06
+Malaysia,MYS,AS,2017,51.61
+Maldives,MDV,AS,2017,49.28
+Mali,MLI,AF,2017,48.95
+Malta,MLT,EU,2017,91.88
+Mauritania,MRT,AF,2017,42.93
+Mauritius,MUS,AF,2017,68.48
+Mexico,MEX,NA,2017,77.5
+Moldova,MDA,EU,2017,31.23
+Mongolia,MNG,AS,2017,24.95
+Montenegro,MNE,EU,2017,37.68
+Montserrat,MSR,NA,2017,102.06
+Morocco,MAR,AF,2017,61.03
+Mozambique,MOZ,AF,2017,43.18
+Namibia,NAM,AF,2017,69.59
+Nepal,NPL,AS,2017,22.07
+Netherlands,NLD,EU,2017,142.84
+New Zealand,NZL,OC,2017,118.85
+Nicaragua,NIC,NA,2017,33.6
+Niger,NER,AF,2017,55.68
+Nigeria,NGA,AF,2017,35.8
+North Macedonia,MKD,EU,2017,31.26
+Norway,NOR,EU,2017,198.81
+Oman,OMN,AS,2017,81.5
+Pakistan,PAK,AS,2017,31.71
+Panama,PAN,NA,2017,88.8
+Paraguay,PRY,SA,2017,52.8
+Peru,PER,SA,2017,59.47
+Philippines,PHL,AS,2017,47.07
+Poland,POL,EU,2017,48.62
+Portugal,PRT,EU,2017,89.41
+Qatar,QAT,AS,2017,92.45
+Republic of the Congo,COG,AF,2017,54.25
+Romania,ROU,EU,2017,32.88
+Russia,RUS,EU,2017,34.94
+Rwanda,RWA,AF,2017,45.27
+Saint Lucia,LCA,NA,2017,95.59
+Saint Vincent and the Grenadines,VCT,NA,2017,72.38
+Sao Tome and Principe,STP,AF,2017,38.33
+Saudi Arabia,SAU,AS,2017,67.05
+Senegal,SEN,AF,2017,42.36
+Serbia,SRB,EU,2017,32.92
+Seychelles,SYC,AF,2017,66.34
+Sierra Leone,SLE,AF,2017,31.3
+Singapore,SGP,AS,2017,136.56
+Slovakia,SVK,EU,2017,56.89
+Slovenia,SVN,EU,2017,90
+South Africa,ZAF,AF,2017,71.11
+South Korea,KOR,AS,2017,78.79
+Spain,ESP,EU,2017,121.63
+Sri Lanka,LKA,AS,2017,19.65
+Sudan,SDN,AF,2017,17.28
+Suriname,SUR,SA,2017,37.9
+Swaziland,SWZ,AF,2017,73.31
+Sweden,SWE,EU,2017,189.48
+Switzerland,CHE,EU,2017,241.55
+Taiwan,TWN,AS,2017,46.6
+Tajikistan,TJK,AS,2017,28.46
+Tanzania,TZA,AF,2017,31.11
+Thailand,THA,AS,2017,43.3
+Togo,TGO,AF,2017,48.58
+Trinidad and Tobago,TTO,NA,2017,96.79
+Tunisia,TUN,AF,2017,42.49
+Turkey,TUR,EU,2017,28.66
+Uganda,UGA,AF,2017,26.83
+Ukraine,UKR,EU,2017,14.37
+United Arab Emirates,ARE,AS,2017,100.38
+United Kingdom,GBR,EU,2017,136.42
+Uruguay,URY,SA,2017,124.42
+USA,USA,NA,2017,179.52
+Vietnam,VNM,AS,2017,31.42
+Zambia,ZMB,AF,2017,37.42
+Zimbabwe,ZWE,AF,2017,47.54
